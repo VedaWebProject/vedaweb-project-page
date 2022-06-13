@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- META PROPS -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    
+    <!-- FAVICON -->
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="images/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="images/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="images/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16" />
+    <meta name="application-name" content="VedaWeb"/>
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="images/mstile-144x144.png" />
+    <link rel="shortcut icon" href="images/favicon.ico">
+
+    <!-- STYLESHEETS -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <title>{{ site.title }}</title>
+</head>
+<body>
+
+    <a id="top"></a>
+
+    <header class="site-frame">
+        <img src="images/logo.png" alt="VedaWeb-Logo" />
+        <div>
+            <small id="brand">VedaWeb</small><br>
+            Online Research Platform<br>
+            for Old Indic Texts
+        </div>
+    </header>
+
+    {{ content }}
+
+    <footer>
+        <div class="flex-row">
+            <!--
+            <a href="http://ifl.phil-fak.uni-koeln.de/asw2.html" title="Allgemeine Sprachwissenschaft der Universität zu Köln" target="_blank" rel="noopener noreferrer">
+                <img src="images/logo_ifl_asw.jpg" alt="ASW" /><br>
+                Allgemeine Sprachwissenschaft (IfL)<br>der Universität zu Köln
+            </a>
+            <a href="http://ifl.phil-fak.uni-koeln.de/hvs2.html" title="Historisch-Vergleichende Sprachwissenschaft der Universität zu Köln" target="_blank" rel="noopener noreferrer">
+                <img src="images/logo_ifl_hvs.jpg" alt="HVS" /><br>
+                Historisch-Vergleichende<br>Sprachwissenschaft (IfL)<br>der Universität zu Köln
+            </a>
+            -->
+            <a href="http://dh.uni-koeln.de/" title="IDH" target="_blank" rel="noopener noreferrer">
+                <img src="images/logo_idh.png" alt="IDH logo" /><br>
+                Institut für<br>Digital Humanities,<br>Universität zu Köln
+            </a>
+            <a href="http://cceh.uni-koeln.de/" title="CCeH" target="_blank" rel="noopener noreferrer">
+                <img src="images/logo_cceh.png" alt="CCeH logo" /><br>
+                Cologne Center<br>for eHumanities,<br>Universität zu Köln
+            </a>
+            <a href="http://dch.phil-fak.uni-koeln.de/" title="DCH" target="_blank" rel="noopener noreferrer">
+                <img src="images/logo_dch.jpg" alt="DCH logo" /><br>
+                Data Center<br>for the Humanities,<br>Universität zu Köln
+            </a>
+            <a href="https://www.phil.uni-wuerzburg.de/vgsp/startseite/" title="Vergleichende Sprachwissenschaft, Universität Würzburg" target="_blank" rel="noopener noreferrer">
+                <img src="images/logo_vgsp.png" alt="VGSP Uni Würzburg"><br>
+                Vergleichende<br>Sprachwissenschaft,<br>Universität Würzburg
+            </a>
+            <a href="http://www.hpcl.uni-freiburg.de" title="Hermann Paul Centrum für Linguistik, Universität Freiburg" target="_blank" rel="noopener noreferrer">
+                <img src="images/logo_hpcl.png" alt="HPCL Uni Freiburg"><br>
+                Hermann-Paul-<br/>Centrum für Linguistik,<br/>Universität Freiburg
+            </a>
+            <a href="http://gepris.dfg.de/gepris/projekt/329358806" title="DFG project page" target="_blank" rel="noopener noreferrer">
+                <img src="images/logo_dfg.png" alt="DFG logo" /><br>
+                VedaWeb DFG-Projekt
+            </a>
+        </div>
+
+        <div class="flex-row" style="justify-content: center;">
+            <a href="/rigveda/sitenotice">Site Notice</a>
+            <span style="padding: 0 4rem"></span>
+            <a href="/rigveda/privacypolicy">Privacy Policy</a>
+        </div>
+
+        <p>
+            VedaWeb, ed. by Daniel Kölligan and Uta Reinöhl,<br>
+            in collaboration with Jakob Halfmann, Börge Kiss, Natalie Korobzow,<br>
+            Francisco Mondaca, Claes Neuefeind, Felix Rau and Patrick Sahle,<br>
+            with material provided by Paul Widmer et al. Cologne: University of Cologne 2018.
+        </p>
+
+        <div class="flex-row" style="justify-content: center;">
+            <a href="#" onClick="(() => {localStorage.clear(); alert('local storage cleared'); return false;})();">Delete local data stored by this website</a>
+        </div>
+    </footer>
+
+
+
+    <!-- //// PRIVACY HINT //// -->
+
+    <div id="privacyhint" style="
+        display: none;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 1rem;
+        background-color: #931111;
+        color: #fff;
+        text-align: center;
+        -webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5);
+        -moz-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5);
+        box-shadow: -0px 0px 8px 0px rgba(0, 0, 0, 0.5);
+    ">
+
+        <div
+        onClick="accept(false);"
+        style="
+            cursor: pointer;
+            position: absolute;
+            right: 10px;
+            top: 10px;
+        ">
+            <svg fill="#fff" viewBox="64 64 896 896" width="1em" height="1em" aria-hidden="true"><path d="M563.8 512l262.5-312.9c4.4-5.2.7-13.1-6.1-13.1h-79.8c-4.7 0-9.2 2.1-12.3 5.7L511.6 449.8 295.1 191.7c-3-3.6-7.5-5.7-12.3-5.7H203c-6.8 0-10.5 7.9-6.1 13.1L459.4 512 196.9 824.9A7.95 7.95 0 0 0 203 838h79.8c4.7 0 9.2-2.1 12.3-5.7l216.5-258.1 216.5 258.1c3 3.6 7.5 5.7 12.3 5.7h79.8c6.8 0 10.5-7.9 6.1-13.1L563.8 512z"></path></svg>
+        </div>
+        
+        <p style="padding: 0 2rem;">
+            This website can use cookies and other storage methods of your
+            browser to remember your application settings for your future
+            visits and create usage statistics.<br/>
+            Please see our <a href="/rigveda/privacypolicy" style="color: #fff; text-decoration: underline;">privacy policy</a> for details!
+        </p>
+
+        <button
+        style="
+            color: #fff;
+            background-color: #931111;
+            padding: .5rem 1rem;
+            border: 1px solid #fff;
+            border-radius: 3px;
+            font-size: 120%;
+            margin-right: 1rem;
+            margin-top: 1rem;
+            cursor: pointer;
+        "
+        onClick="accept(true);">
+            I agree
+        </button>
+
+    </div>
+
+    <script type="text/javascript">
+
+        function usageStatsCode(){
+            var _paq = window._paq || [];
+            /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+            _paq.push(['setCustomUrl', '/']);
+            _paq.push(['enableHeartBeatTimer', 10]);
+            _paq.push(['trackPageView']);
+            (function() {
+                var u="https://piwik.rrz.uni-koeln.de/piwik/";
+                _paq.push(['setTrackerUrl', u+'matomo.php']);
+                _paq.push(['setSiteId', '253']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+            })();
+        }
+
+        function sawHint(){
+            let ls = window.localStorage.getItem("settings");
+            if (!ls) return false;
+            return JSON.parse(ls).acceptedPrivacyHint !== undefined;
+        }
+
+        function accepted(){
+            let ls = window.localStorage.getItem("settings");
+            if (!ls) return false;
+            return JSON.parse(ls).acceptedPrivacyHint;
+        }
+
+        function setupPrivacy(){
+            if (!accepted()){
+                document.getElementById("privacyhint").style.display = "block";
+                return;
+            }
+            usageStatsCode();
+        }
+
+        function accept(didAccept){
+            document.getElementById("privacyhint").style.display = "none";
+            if (!didAccept) return;
+            let ls = {acceptedPrivacyHint: didAccept};
+            window.localStorage.setItem("settings", JSON.stringify(ls));
+            setupPrivacy();
+        }
+
+        setupPrivacy();
+
+    </script>
+
+
+</body>
+</html>
+

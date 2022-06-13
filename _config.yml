@@ -1,0 +1,38 @@
+
+# Site settings
+
+title: VedaWeb
+email: veda-web@uni-koeln.de
+description: A web-based, open-access platform for research on Old Indic texts
+
+#baseurl: "" # subpath, e.g. /about
+#url: "" # base hostname & protocol, e.g. http://example.com
+
+twitter_username: jekyllrb
+github_username:  jekyll
+
+collections:
+  team:
+    sort_by: last_name
+
+
+# Build settings
+
+plugins:
+  - jekyll-target-blank
+
+
+# Exclude from processing.
+
+exclude:
+  - docker-compose.yml
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

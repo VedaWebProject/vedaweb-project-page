@@ -1,0 +1,7 @@
+
+<div>
+    {% for member in site.team %}
+        <h2>{{ member.title }} {{ member.first_name }} {{ member.last_name }}</h2>
+        {{ member.content | markdownify }}
+    {% endfor %}
+</div>

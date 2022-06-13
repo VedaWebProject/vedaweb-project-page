@@ -1,0 +1,9 @@
+<div id="navigation">
+    <div class="site-frame">
+        <nav>
+            {% for item in site.data.navigation %}
+                <div>&#8227; <a href="#{{ item.link }}">{{ item.name }}</a></div>
+            {% endfor %}
+        </nav>
+    </div>
+</div>
