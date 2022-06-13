@@ -17,16 +17,47 @@ The **source code of the VedaWeb platform application** in its current state is 
 
 # Team
 
-<!-- {% include team.html %} -->
+{% assign roles = "PI,Staff,Collaborator" | split: "," %}
 
-{% for member in site.team %}
+## Active Project Members (2022-2025)
 
-## {{ member.title }} {{ member.first_name }} {{ member.last_name }}  
-> {{ member.institution }}  
-{{ member.content }}
+{% assign members_active = site.team | where: "status", "active" %}
 
+{% for role in roles %}
+    {% assign members = members_active | where: "role", role %}
+    {% for member in members %}
+
+{% if member.website and member.website != blank and member.website != nil %}
+### [{{ member.display_name }}]({{ member.website }}) ({{ member.role }})
+{% else %}
+### {{ member.display_name }} ({{ member.role }})
+{% endif %}
+> {{ member.institution }}
+
+    {% endfor %}
 {% endfor %}
 
+
+## Former Project Members (2017-2020)
+
+{% assign members_inactive = site.team | where: "status", "inactive" %}
+
+{% for role in roles %}
+    {% assign members = members_inactive | where: "role", role %}
+    {% for member in members %}
+
+{% if member.website and member.website != blank and member.website != nil %}
+### [{{ member.display_name }}]({{ member.website }}) ({{ member.role }})
+{% else %}
+### {{ member.display_name }} ({{ member.role }})
+{% endif %}
+> {{ member.institution }}
+
+    {% endfor %}
+{% endfor %}
+
+
+---
 
 
 # Publications in the VedaWeb Project's Context
@@ -95,6 +126,8 @@ The following list contains papers, talks and presentations that were produced i
 ### VedaWeb
 > University of Cologne, Department of Linguistics (04.05.2018); Participants: Dr. Katrin Einicke (University of Halle), Dr. Dieter Gunkel (University of Richmond), PD Dr. Oliver Hellwig (Heidelberg University, University of Stuttgart), M.A. Börge Kiss (University of Cologne), PD Dr. Daniel Kölligan (University of Cologne), M.A. Francisco Mondaca (University of Cologne), Dr. Claes Neuefeind (University of Cologne), Dr. Uta Reinöhl (University of Cologne), Prof. Dr. Kevin Ryan (Harvard University), Apl. Prof. Dr. Patrick Sahle (University of Cologne), Dr. Salvatore Scarlata (University of Zurich), Prof. Dr. Paul Widmer (University of Zurich)
 
+
+---
 
 
 # Links to VedaWeb-related Resources
