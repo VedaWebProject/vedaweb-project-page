@@ -15,7 +15,7 @@ The **source code of the VedaWeb platform application** in its current state is 
 
 
 
-# Publications in the VedaWeb Project's Context
+# Publications
 
 The following list contains papers, talks and presentations that were produced in the context of the VedaWeb project.
 
@@ -135,7 +135,9 @@ The following list contains papers, talks and presentations that were produced i
 ---
 
 
-# Links to VedaWeb-related Resources
+# Links
+
+This sections contains links to resources related to the VedaWeb project.
 
 
 ## Rigveda
