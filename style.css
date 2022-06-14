@@ -1,10 +1,10 @@
 @font-face {
-    font-family:'Assistant';
+    font-family:'SourceSans';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     src: 
-      local('Assistant-Regular'),
-      url('fonts/Assistant-Regular.ttf') format('truetype');
+      local('SourceSansPro-Light'),
+      url('fonts/SourceSansPro-Light.ttf') format('truetype');
 }
 
 html {
@@ -28,10 +28,10 @@ a:hover {
 :target { scroll-margin-top: 4rem; }
 
 body {
-    font-size: 18px;
-    font-family: 'Assistant', sans-serif;
+    font-size: 20px;
+    font-family: 'SourceSans', sans-serif;
     background-color: #fff;
-    color: #565656;
+    color: #222;
 }
 
 ul, ol {
@@ -123,7 +123,7 @@ main p {
 }
 
 .publication small {
-    color: #898989;
+    color: #565656;
 }
 
 footer {
@@ -223,7 +223,7 @@ hr {
 h1 {
     font-size: 200%;
     font-weight: normal;
-    color: #565656;
+    color: #555;
     margin-top: 2rem;
     margin-bottom: 1.25rem;
 }
@@ -231,7 +231,7 @@ h1 {
 h2 {
     font-size: 140%;
     font-weight: normal;
-    color: #565656;
+    color: #555;
     margin-top: 1.5rem;
     margin-bottom: 1rem;
 }
@@ -244,5 +244,5 @@ h3 {
 
 blockquote {
     font-size: 90%;
-    color: #898989;
+    color: #777;
 }
