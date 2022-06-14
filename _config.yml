@@ -24,6 +24,7 @@ plugins:
 exclude:
   - docker-compose.yml
   - build-jekyll.yml
+  - README.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
