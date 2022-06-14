@@ -17,43 +17,48 @@ The **source code of the VedaWeb platform application** in its current state is 
 
 # Team
 
-{% assign roles = "PI,Staff,Collaborator" | split: "," %}
 
-## Active Project Members (2022-2025)
-
-{% assign members_active = site.team | where: "status", "active" %}
-
-{% for role in roles %}
-    {% assign members = members_active | where: "role", role %}
+## Active Project Members
+{% assign team_roles = "PI,staff" | split: "," %}
+{% assign active_members = site.team | where: "status", "active" %}
+{% for role in team_roles %}
+    {% assign members = active_members | where: "role", role %}
     {% for member in members %}
-
-{% if member.website and member.website != blank and member.website != nil %}
+        {% if member.website and member.website != blank and member.website != nil %}
 ### [{{ member.display_name }}]({{ member.website }}) ({{ member.role }})
-{% else %}
+        {% else %}
 ### {{ member.display_name }} ({{ member.role }})
-{% endif %}
+        {% endif %}
 > {{ member.institution }}
-
     {% endfor %}
 {% endfor %}
 
 
-## Former Project Members (2017-2020)
-
-{% assign members_inactive = site.team | where: "status", "inactive" %}
-
-{% for role in roles %}
-    {% assign members = members_inactive | where: "role", role %}
+## Former Project Members
+{% assign team_roles = "PI,staff" | split: "," %}
+{% assign inactive_members = site.team | where: "status", "inactive" %}
+{% for role in team_roles %}
+    {% assign members = inactive_members | where: "role", role %}
     {% for member in members %}
-
-{% if member.website and member.website != blank and member.website != nil %}
+        {% if member.website and member.website != blank and member.website != nil %}
 ### [{{ member.display_name }}]({{ member.website }}) ({{ member.role }})
-{% else %}
+        {% else %}
 ### {{ member.display_name }} ({{ member.role }})
-{% endif %}
+        {% endif %}
 > {{ member.institution }}
-
     {% endfor %}
+{% endfor %}
+
+
+## Cooperating Partners
+{% assign cooperating_partners = site.team | where: "role", "cooperating partner" %}
+{% for member in cooperating_partners %}
+    {% if member.website and member.website != blank and member.website != nil %}
+### [{{ member.display_name }}]({{ member.website }})
+    {% else %}
+### {{ member.display_name }}
+    {% endif %}
+> {{ member.institution }}
 {% endfor %}
 
 
