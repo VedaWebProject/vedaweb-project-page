@@ -8,9 +8,6 @@ description: A web-based, open-access platform for research on Old Indic texts
 #baseurl: "" # subpath, e.g. /about
 #url: "" # base hostname & protocol, e.g. http://example.com
 
-twitter_username: jekyllrb
-github_username:  jekyll
-
 collections:
   team:
     sort_by: last_name
