@@ -1,8 +1,8 @@
 ---
 last_name: Widmer
 display_name: Paul Widmer, Prof. Dr.
-website: https://www.linguistik.uzh.ch/de/about/mitglieder/pwidme.html
-institution: Comparative Indo-European Studies, University of Zurich
-role: Collaborator
+website: https://www.comparativelinguistics.uzh.ch/en/widmer.html
+institution: University of Zurich, Comparative Indo-European Linguistics (Department of Comparative Language Science)
+role: cooperating partner
 status: active
 ---
