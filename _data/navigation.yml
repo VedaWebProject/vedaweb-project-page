@@ -2,9 +2,9 @@
   link: top
 - name: Application
   link: app-launcher
-- name: Team
-  link: team
 - name: Publications
   link: vedaweb-related-publications
+- name: Team
+  link: team
 - name: Links
   link: links-to-vedaweb-related-resources

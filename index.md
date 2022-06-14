@@ -15,56 +15,6 @@ The **source code of the VedaWeb platform application** in its current state is 
 
 
 
-# Team
-
-
-## Active Project Members
-{% assign team_roles = "PI,staff" | split: "," %}
-{% assign active_members = site.team | where: "status", "active" %}
-{% for role in team_roles %}
-    {% assign members = active_members | where: "role", role %}
-    {% for member in members %}
-        {% if member.website and member.website != blank and member.website != nil %}
-### [{{ member.display_name }}]({{ member.website }}) ({{ member.role }})
-        {% else %}
-### {{ member.display_name }} ({{ member.role }})
-        {% endif %}
-> {{ member.institution }}
-    {% endfor %}
-{% endfor %}
-
-
-## Former Project Members
-{% assign team_roles = "PI,staff" | split: "," %}
-{% assign inactive_members = site.team | where: "status", "inactive" %}
-{% for role in team_roles %}
-    {% assign members = inactive_members | where: "role", role %}
-    {% for member in members %}
-        {% if member.website and member.website != blank and member.website != nil %}
-### [{{ member.display_name }}]({{ member.website }}) ({{ member.role }})
-        {% else %}
-### {{ member.display_name }} ({{ member.role }})
-        {% endif %}
-> {{ member.institution }}
-    {% endfor %}
-{% endfor %}
-
-
-## Cooperating Partners
-{% assign cooperating_partners = site.team | where: "role", "cooperating partner" %}
-{% for member in cooperating_partners %}
-    {% if member.website and member.website != blank and member.website != nil %}
-### [{{ member.display_name }}]({{ member.website }})
-    {% else %}
-### {{ member.display_name }}
-    {% endif %}
-> {{ member.institution }}
-{% endfor %}
-
-
----
-
-
 # Publications in the VedaWeb Project's Context
 
 The following list contains papers, talks and presentations that were produced in the context of the VedaWeb project.
@@ -135,7 +85,58 @@ The following list contains papers, talks and presentations that were produced i
 ---
 
 
+# Team
+
+
+## Active Project Members
+{% assign team_roles = "PI,staff" | split: "," %}
+{% assign active_members = site.team | where: "status", "active" %}
+{% for role in team_roles %}
+    {% assign members = active_members | where: "role", role %}
+    {% for member in members %}
+        {% if member.website and member.website != blank and member.website != nil %}
+### [{{ member.display_name }}]({{ member.website }}) ({{ member.role }})
+        {% else %}
+### {{ member.display_name }} ({{ member.role }})
+        {% endif %}
+> {{ member.institution }}
+    {% endfor %}
+{% endfor %}
+
+
+## Former Project Members
+{% assign team_roles = "PI,staff" | split: "," %}
+{% assign inactive_members = site.team | where: "status", "inactive" %}
+{% for role in team_roles %}
+    {% assign members = inactive_members | where: "role", role %}
+    {% for member in members %}
+        {% if member.website and member.website != blank and member.website != nil %}
+### [{{ member.display_name }}]({{ member.website }}) ({{ member.role }})
+        {% else %}
+### {{ member.display_name }} ({{ member.role }})
+        {% endif %}
+> {{ member.institution }}
+    {% endfor %}
+{% endfor %}
+
+
+## Cooperating Partners
+{% assign cooperating_partners = site.team | where: "role", "cooperating partner" %}
+{% for member in cooperating_partners %}
+    {% if member.website and member.website != blank and member.website != nil %}
+### [{{ member.display_name }}]({{ member.website }})
+    {% else %}
+### {{ member.display_name }}
+    {% endif %}
+> {{ member.institution }}
+{% endfor %}
+
+
+---
+
+
 # Links to VedaWeb-related Resources
+
 
 ## Rigveda
 
