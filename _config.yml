@@ -6,7 +6,7 @@ email: veda-web@uni-koeln.de
 description: A web-based, open-access platform for research on Old Indic texts
 
 #baseurl: "" # subpath, e.g. /about
-#url: "" # base hostname & protocol, e.g. http://example.com
+url: "https://vedaweb.uni-koeln.de" # base hostname & protocol, e.g. http://example.com
 
 collections:
   team:
