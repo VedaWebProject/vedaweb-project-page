@@ -1,6 +1,6 @@
 - name: Project
   link: top
-- name: Application
+- name: Platform
   link: app-launcher
 - name: Publications
   link: publications
