@@ -25,7 +25,7 @@ a:hover {
     text-decoration: underline;
 }
 
-:target { scroll-margin-top: 4rem; }
+:target { scroll-margin-top: 5.5rem; }
 
 body {
     font-size: 20px;
@@ -76,16 +76,25 @@ header img {
 #navigation {
     position: -webkit-sticky;
     position: sticky;
-    top: 0;
+    top: -1px;
     box-shadow:  0 -16px 20px 0px #fff;
 }
 
 #navigation nav {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: flex-end;
     background-color: #fff;
     border-bottom: 1px solid #e4e4e4;
+    padding: 1rem;
+    transition: .2s;
+}
+
+#navigation.stuck nav {
+    background-image: url(images/logo.png);
+    background-repeat: no-repeat;
+    background-size: auto 60%;
+    background-position: 2% 50%;
 }
 
 #navigation nav div {
