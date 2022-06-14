@@ -110,22 +110,6 @@ main p {
     margin-bottom: .5rem;
 }
 
-/*
-@media (max-width: 768px) {
-    main p { columns: 1; }
-}
-*/
-
-
-.publication {
-    margin-bottom: 1.5rem;
-    font-size: 20px;
-}
-
-.publication small {
-    color: #565656;
-}
-
 footer {
     padding: 2rem 1rem;
     margin: 2rem 0;
@@ -176,12 +160,6 @@ div.button:hover {
 a.button-link {
     text-decoration: none;
     color: #fff;
-}
-
-.preview-text {
-    min-height: 120px;
-    display: flex;
-    align-items: center;
 }
 
 .flex-row {
