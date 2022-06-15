@@ -1,8 +1,8 @@
 ---
 last_name: Korobzow
 display_name: Natalie Korobzow, M.A.
-website: https://ifl.phil-fak.uni-koeln.de/en/hvs/people/korobzow-ma
-institution: University of Cologne, Historical-Comparative Linguistics (Department of Linguistics)
+website: https://www.phil.uni-wuerzburg.de/en/vgsp/personal/natalie-korobzow/
+institution: University of Würzburg, Comparative Philology (Institute of Classical Studies)
 role: staff
 status: active
 ---
