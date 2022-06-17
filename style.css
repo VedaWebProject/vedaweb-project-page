@@ -120,7 +120,7 @@ header > div {
 
     #navigation.stuck nav {
         background: #fff;
-        border-bottom: 1px solid #e4e4e4;
+        border-bottom: none;
     }
 }
 
