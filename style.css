@@ -97,6 +97,26 @@ header img {
     border-bottom: 1px solid #e4e4e4;
 }
 
+@media only screen and (max-width: 800px) {
+    #navigation {
+        position: unset;
+        top: unset;
+    }
+
+    #navigation nav {
+        justify-content: space-around;
+    }
+
+    #navigation nav > div {
+        width: 40%;
+    }
+
+    #navigation.stuck nav {
+        background: #fff;
+        border-bottom: 1px solid #e4e4e4;
+    }
+}
+
 #navigation nav div {
     background-color: #fff;
     padding: .75rem 1.5rem .75rem 0;
