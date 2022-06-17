@@ -131,6 +131,7 @@ header > div {
 
 main {
     padding: 2rem 1rem;
+    line-height: 2rem;
 }
 
 main p {
@@ -139,7 +140,7 @@ main p {
 
 footer {
     padding: 2rem 1rem;
-    margin-top: 2rem;
+    margin-top: 4rem;
     font-size: 90%;
 }
 
@@ -222,7 +223,7 @@ hr {
     width: 50%;
     max-width: 320px;
     border: none;
-    border-top: 3px double #e4e4e4;
+    border-top: 1px solid #e4e4e4;
     height: 5px;
 }
 
@@ -230,22 +231,25 @@ h1 {
     font-size: 200%;
     font-weight: normal;
     color: #666;
-    margin-top: 2rem;
-    margin-bottom: 1.25rem;
+    margin-top: 2.5rem;
+    margin-bottom: 2rem;
+
+    border-top: 1px solid #eee;
+    padding-top: 2.2rem;
 }
 
 h2 {
     font-size: 140%;
     font-weight: normal;
     color: #444;
-    margin-top: 1.8rem;
-    margin-bottom: 1.1rem;
+    margin-top: 2rem;
+    margin-bottom: 1.25rem;
 }
 
 h3 {
     font-size: 110%;
     font-weight: normal;
-    margin-top: 1rem;
+    margin-top: 1.2rem;
 }
 
 blockquote {

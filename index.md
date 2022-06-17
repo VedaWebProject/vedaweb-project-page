@@ -84,7 +84,6 @@ The following list contains papers, talks and presentations that were produced i
 > University of Cologne, Department of Linguistics (04.05.2018); Participants: Dr. Katrin Einicke (University of Halle), Dr. Dieter Gunkel (University of Richmond), PD Dr. Oliver Hellwig (Heidelberg University, University of Stuttgart), M.A. Börge Kiss (University of Cologne), PD Dr. Daniel Kölligan (University of Cologne), M.A. Francisco Mondaca (University of Cologne), Dr. Claes Neuefeind (University of Cologne), Dr. Uta Reinöhl (University of Cologne), Prof. Dr. Kevin Ryan (Harvard University), Apl. Prof. Dr. Patrick Sahle (University of Cologne), Dr. Salvatore Scarlata (University of Zurich), Prof. Dr. Paul Widmer (University of Zurich)
 
 
----
 
 
 # Team
@@ -134,7 +133,6 @@ The following list contains papers, talks and presentations that were produced i
 {% endfor %}
 
 
----
 
 
 # Links
