@@ -7,9 +7,11 @@ layout: home
 
 This DFG-funded project provides a web-based, open-access platform in order to facilitate linguistic research on Old Indic texts. The text corpus is made available in a digitally accessible as well as morphologically and metrically annotated form, searchable for lexicographic and corpus-linguistic criteria. VedaWeb is part of the *Cologne South Asian Languages and Texts* ([C-SALT](http://c-salt.uni-koeln.de/)).
 
-The pilot text is the Rigveda, linked to the dictionaries available at Cologne Digital Sanskrit Dictionaries via the [C-SALT APIs for Sanskrit Dictionaries](https://cceh.github.io/c-salt_sanskrit_data). The morphological annotation of the Rig-Veda was carried out at the Universität Zürich (UZH) and made available for the project.
+In the **first phase** of the project (VedaWeb, 2017-2020) the basic concept of the platform was developed and a [first instance went online](https://vedaweb.uni-koeln.de/rigveda). The pilot text this application is working with is the Rigveda. It's linked to the dictionaries available at Cologne Digital Sanskrit Dictionaries via the [C-SALT APIs for Sanskrit Dictionaries](https://cceh.github.io/c-salt_sanskrit_data) and features morphological annotations of the Rigveda that were carried out at the Universität Zürich (UZH) and made available for the project.
 
-The **source code of the VedaWeb platform application** in its current state is open-sourced via a [public GitHub repository](https://github.com/VedaWebPlatform/vedaweb). There is also an [interactive documentation of the exposed API](https://vedaweb.uni-koeln.de/rigveda/swagger-ui.html) for any interested users with a technical background.
+In the **second phase** of the project (VedaWeb 2.0, 2022-2025), the platform application's capabilities are extended to constitute the basis for multiple collaborative research platforms working with different Old Indic texts. The data composed, revised and processed in this second phase include audio recordings of recitations of the Rigveda that will be integrated into the platform as well as other texts such as the *Atharvaveda*.
+
+The **source code** of the VedaWeb platform application in its current state is open-sourced via a [public GitHub repository](https://github.com/VedaWebPlatform/vedaweb). There is also an [interactive documentation of the exposed API](https://vedaweb.uni-koeln.de/rigveda/swagger-ui.html) for any interested users with a technical background.
 
 {% include app-launcher.html %}
 
