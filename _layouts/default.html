@@ -83,15 +83,17 @@
             </a>
         </div>
 
-        <div class="flex-row" style="justify-content: center;">
+        <div style="display: flex; flex-direction: column; align-items: center; margin-top: 2rem;">
             <a href="/rigveda/sitenotice">Site Notice</a>
-            <span style="padding: 0 4rem"></span>
             <a href="/rigveda/privacypolicy">Privacy Policy</a>
+            <a
+            href="#"
+            onClick="(() => {localStorage.clear(); alert('local storage cleared'); return false;})();"
+            title="Delete local data stored by this website">
+                Delete local data
+            </a>
         </div>
 
-        <div class="flex-row" style="justify-content: center;">
-            <a href="#" onClick="(() => {localStorage.clear(); alert('local storage cleared'); return false;})();">Delete local data stored by this website</a>
-        </div>
     </footer>
 
 
