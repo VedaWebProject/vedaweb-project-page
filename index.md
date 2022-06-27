@@ -152,7 +152,7 @@ This sections contains links to resources related to the VedaWeb project.
 - [Book 16 of the Atharvaveda-Paippalādasaṃhitā](https://www.phil.uni-wuerzburg.de/vgsp/forschung/projekte/#c715156) at the University of Würzburg
 - [Index Verborum](https://www.phil.uni-wuerzburg.de/fileadmin/04080400/2021/Atharvaveda_Index_verborum_04_2021.pdf) - AVŚ und AVP (vorläufige Version)
 - [Kanda 16](https://www.phil.uni-wuerzburg.de/fileadmin/04080400/2021/Ka__n__d__a_16_04_2021.pdf) - AVP
-- [Atharvavedasaṃhitā der Śaunakaśākhā.](https://www.phil.uni-wuerzburg.de/fileadmin/04080400/2022/AVS_Text_12_2021.pdf) - Eine neue Edition unter besonderer Berücksichtigung der Parallelstellen der Paippalādasaṃhitā.
+- [Atharvavedasaṃhitā der Śaunakaśākhā.](https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/27703/file/Kim_AVS_Neuedition_2021.pdf) - Eine neue Edition unter besonderer Berücksichtigung der Parallelstellen der Paippalādasaṃhitā.
     - [Einleitung, Abkürzungs- und Literaturverzeichnis](files/AV_Einleitung.xml)
     - [Kāṇḍa 1](files/AV_Kanda_01.xml)
 
