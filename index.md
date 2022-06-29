@@ -153,8 +153,12 @@ This sections contains links to resources related to the VedaWeb project.
 - [Index Verborum](https://www.phil.uni-wuerzburg.de/fileadmin/04080400/2021/Atharvaveda_Index_verborum_04_2021.pdf) - AVŚ und AVP (vorläufige Version)
 - [Kanda 16](https://www.phil.uni-wuerzburg.de/fileadmin/04080400/2021/Ka__n__d__a_16_04_2021.pdf) - AVP
 - [Atharvavedasaṃhitā der Śaunakaśākhā.](https://nbn-resolving.org/urn:nbn:de:bvb:20-opus-277038) - Eine neue Edition unter besonderer Berücksichtigung der Parallelstellen der Paippalādasaṃhitā.
-    - [Einleitung, Abkürzungs- und Literaturverzeichnis](files/AV_Einleitung.xml)
-    - [Kāṇḍa 1](files/AV_Kanda_01.xml)
+    - [Einleitung, Abkürzungs- und Literaturverzeichnis](files/AVS_Einleitung.xml) (TEI-XML)
+    - [Kāṇḍa 1](files/AVS_Kanda_01.xml) (TEI-XML)
+    - [Kāṇḍa 2](files/AVS_Kanda_02.xml) (TEI-XML)
+    - [Kāṇḍa 3](files/AVS_Kanda_03.xml) (TEI-XML)
+    - [Kāṇḍa 4](files/AVS_Kanda_04.xml) (TEI-XML)
+    - [Kāṇḍa 5](files/AVS_Kanda_05.xml) (TEI-XML)
 
 
 ## Dictionaries
