@@ -153,12 +153,16 @@ This sections contains links to resources related to the VedaWeb project.
 - [Index Verborum](https://www.phil.uni-wuerzburg.de/fileadmin/04080400/2021/Atharvaveda_Index_verborum_04_2021.pdf) - AVŚ und AVP (vorläufige Version)
 - [Kanda 16](https://www.phil.uni-wuerzburg.de/fileadmin/04080400/2021/Ka__n__d__a_16_04_2021.pdf) - AVP
 - [Atharvavedasaṃhitā der Śaunakaśākhā.](https://nbn-resolving.org/urn:nbn:de:bvb:20-opus-277038) - Eine neue Edition unter besonderer Berücksichtigung der Parallelstellen der Paippalādasaṃhitā.
-    - [Einleitung, Abkürzungs- und Literaturverzeichnis](files/AVS_Einleitung.xml) (TEI-XML)
-    - [Kāṇḍa 1](files/AVS_Kanda_01.xml) (TEI-XML)
-    - [Kāṇḍa 2](files/AVS_Kanda_02.xml) (TEI-XML)
-    - [Kāṇḍa 3](files/AVS_Kanda_03.xml) (TEI-XML)
-    - [Kāṇḍa 4](files/AVS_Kanda_04.xml) (TEI-XML)
-    - [Kāṇḍa 5](files/AVS_Kanda_05.xml) (TEI-XML)
+    - [Einleitung, Abkürzungs- und Literaturverzeichnis](files/avs/AVS_Einleitung.xml) (TEI-XML)
+    - Kāṇḍa
+[1](files/avs/AVS_Kanda_01.xml),
+[2](files/avs/AVS_Kanda_02.xml),
+[3](files/avs/AVS_Kanda_03.xml),
+[4](files/avs/AVS_Kanda_04.xml),
+[5](files/avs/AVS_Kanda_05.xml),
+[6](files/avs/AVS_Kanda_06.xml),
+[7](files/avs/AVS_Kanda_07.xml),
+[8](files/avs/AVS_Kanda_08.xml) (TEI-XML)
 
 
 ## Dictionaries
