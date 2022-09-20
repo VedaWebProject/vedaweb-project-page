@@ -162,7 +162,13 @@ This sections contains links to resources related to the VedaWeb project.
 [5](files/avs/AVS_Kanda_05.xml),
 [6](files/avs/AVS_Kanda_06.xml),
 [7](files/avs/AVS_Kanda_07.xml),
-[8](files/avs/AVS_Kanda_08.xml) (TEI-XML)
+[8](files/avs/AVS_Kanda_08.xml),
+[9](files/avs/AVS_Kanda_09.xml),
+[10](files/avs/AVS_Kanda_10.xml),
+[11](files/avs/AVS_Kanda_11.xml),
+[12](files/avs/AVS_Kanda_12.xml),
+[13](files/avs/AVS_Kanda_13.xml),
+[14](files/avs/AVS_Kanda_14.xml) (TEI-XML)
 
 
 ## Dictionaries
