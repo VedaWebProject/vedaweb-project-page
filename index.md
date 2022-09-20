@@ -11,7 +11,7 @@ In the **first phase** of the project (VedaWeb, 2017-2020) the basic concept of 
 
 In the **second phase** of the project (VedaWeb 2.0, 2022-2025), the platform application's capabilities are extended to constitute the basis for multiple collaborative research platforms working with different Old Indic texts. The data composed, revised and processed in this second phase include audio recordings of recitations of the Rigveda that will be integrated into the platform as well as other texts such as the *Atharvaveda*.
 
-The **source code** of the VedaWeb platform application in its current state is open-sourced via a [public GitHub repository](https://github.com/VedaWebPlatform/vedaweb). There is also an [interactive documentation of the exposed API](https://vedaweb.uni-koeln.de/rigveda/swagger-ui.html) for any interested users with a technical background.
+The **source code** of the VedaWeb platform application in its current state is open-sourced via a [public GitHub repository](https://github.com/VedaWebPlatform/vedaweb). There is also an [OpenAPI 3 schema of the exposed API](https://vedaweb.uni-koeln.de/rigveda/openapi) for any interested users with a technical background.
 
 {% include app-launcher.html %}
 
