@@ -140,7 +140,13 @@ The following list contains papers, talks and presentations that were produced i
 This sections contains links to resources related to the VedaWeb project.
 
 
-## Rigveda
+## Datasets of the VedaWeb Project
+
+- [All data composed as TEI-XML](https://github.com/cceh/c-salt_vedaweb_tei)
+- [Individual datasets in various formats](https://github.com/cceh/c-salt_vedaweb_sources)
+
+
+## Other Rigveda-related resources
 
 - [K. Ryan's RV-search site](https://www.meluhha.com/rv/)
 - [Rigveda Translation](http://rigvedacommentary.alc.ucla.edu/) - Commentary by Stephanie W. Jamison & Joel P. Brereton
