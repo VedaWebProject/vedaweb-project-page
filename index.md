@@ -141,8 +141,7 @@ This sections contains links to resources related to the VedaWeb project.
 
 ## Datasets of the VedaWeb Project
 
-- [All data composed as TEI-XML](https://github.com/cceh/c-salt_vedaweb_tei)
-- [Individual datasets in various formats](https://github.com/cceh/c-salt_vedaweb_sources)
+- [Individual datasets in various formats as well as all data composed as TEI-XML](https://github.com/VedaWebProject/vedaweb-data)
 
 
 ## Other Rigveda-related resources
