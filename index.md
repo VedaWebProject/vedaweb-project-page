@@ -37,6 +37,9 @@ The following list contains papers, talks and presentations that were produced i
 
 ## Conference Presentations
 
+### Creating a collaborative research platform for Vedic Sanskrit texts [[pdf]](https://zenodo.org/record/8107794/files/FISCHER_Anna_Creating_a_collaborative_research_platform_for_.pdf?download=1)
+> Fischer, A., Kiss, B., Casaretto, A., Kölligan, D., Korobzow, N., Neuefeind, C., Reinöhl, U., Sahle, P. (2023, June 30). Creating a collaborative research platform for Vedic Sanskrit texts. Digital Humanities 2023. Collaboration as Opportunity (DH2023), Graz, Austria. https://doi.org/10.5281/zenodo.8107794
+
 ### C-SALT APIs - Connecting and Exposing Heterogeneous Language Resources
 > Mondaca, F., Rau, F., Neuefeind, C., Kiss, B., Kölligan, D., Reinöhl, U., Sahle, P. (2019); To Appear in: Book of Abstracts of the Digital Humanities Conference 2019 (DH2019). Utrecht, Netherlands. 09.07-12-07.2019.
 
