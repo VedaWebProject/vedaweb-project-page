@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kanda_17">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Atharvavedasaṃhitā der Śaunakaśākhā - Kāṇḍa 17</title>
+                <author>Jeong-Soo Kim</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Thiago Venturott</distributor>
+                <pubPlace>Würzburg</pubPlace>
+                <date when="2022">2022</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-Datei erstellt auf Basis von <name key="urn:nbn:de:bvb:20-opus-277038"
+                        >Atharvavedasaṃhitā der Śaunakaśākhā: Eine neue Edition unter besonderer
+                        Berücksichtigung der Parallelstellen der Paippalādasaṃhitā</name>.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <!--Die xml:ids der vorliegenden Datei sind in der Datei "AVS_Einleitung_Abkuerzungen_Literatur" aufgelöst.-->
+    <text>
+        <body>
+            <div xml:id="b17" type="book">
+                <head>Kāṇḍa 17</head>
+                <div xml:id="b17_h001" n="17.1" type="hymn">
+                    <div xml:id="b17_h001_01" n="17.1.1" type="stanza">
+                        <head>abc = Ś 17.1.5abc = P 18.54.1abc = P 18.54.4abc • d = Ś 17.1.5d ~ P
+                            18.54.1f = P 18.54.4f • e = Ś 17.1.5e ~ P 18.54.1g = P 18.54.4g • f = Ś
+                            18.2.45b = P 18.54.1h = P 18.67.5b</head>
+                        <lg>
+                            <l xml:id="b17_h001_01_a">viṣāsahíṃ sáhamānaṃ</l>
+                            <l xml:id="b17_h001_01_b">sāsahānáṃ sáhīyāṃsam |</l>
+                            <l xml:id="b17_h001_01_c">sáhamānaṃ sahojítaṃ</l>
+                            <l xml:id="b17_h001_01_d">svarjítaṃ gojítaṃ saṃdhanājítam |</l>
+                            <l xml:id="b17_h001_01_e">ī́ḍyaṃ nā́ma hva índram</l>
+                            <l xml:id="b17_h001_01_f">ā́yuṣmān bhūyāsam ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_02" n="17.1.2" type="stanza">
+                        <head>• f ~ P 18.54.2h</head>
+                        <lg>
+                            <l xml:id="b17_h001_02_a">viṣāsahíṃ °°° |</l>
+                            <l xml:id="b17_h001_02_b">°°° |</l>
+                            <l xml:id="b17_h001_02_c">°°° hva índraṃ</l>
+                            <l xml:id="b17_h001_02_d">priyó devā́nāṃ bhūyāsam ||<note
+                                    xml:id="anm3229" n="3229" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> (viṣāsahíṃ ° | etc.). <ref target="#N">N.</ref> hat für
+                                    17.1.2 (ohne viṣāsahíṃ ... hva) índraṃ priyó devā́nāṃ bhūyāsam
+                                    || 2 ||. So auch die Jaṭāpāṭha-Mss. (<bibl><ref
+                                            target="#deshpande_2002">Deshpande 2002</ref></bibl>).
+                                        <ref target="#AVP">AVP</ref> 18.54.2 hat ebenfalls indraṃ
+                                    devānāṃ priyo bhūyāsam || 2 ||. <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> und <bibl><ref
+                                            target="#deshpande_2002">Deshpande 2002</ref></bibl>
+                                    schreiben den Text in vollem Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_03" n="17.1.3" type="stanza">
+                        <head>• f ~ P 18.54.3h</head>
+                        <lg>
+                            <l xml:id="b17_h001_03_a">viṣāsahíṃ °°° |</l>
+                            <l xml:id="b17_h001_03_b">°°° |</l>
+                            <l xml:id="b17_h001_03_c">°°° hva índraṃ</l>
+                            <l xml:id="b17_h001_03_d">priyáḥ prajā́nāṃ bhūyāsam ||<note
+                                    xml:id="anm3230" n="3230" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> (viṣāsahíṃ ° | etc.). <ref target="#N">N.</ref> hat für
+                                    17.1.3 priyáḥ prajā́nāṃ bhūyāsam || 3 ||. So auch die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>). <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> und <bibl><ref target="#deshpande_2002"
+                                            >Deshpande 2002</ref></bibl> schreiben den Text in
+                                    vollem Umfang. <ref target="#AVP">AVP</ref> 18.54.3 hat indraṃ
+                                    prajānāṃ priyo bhūyāsam || 3 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_04" n="17.1.4" type="stanza">
+                        <head>• f ~ P 18.54.4h</head>
+                        <lg>
+                            <l xml:id="b17_h001_04_a">viṣāsahíṃ °°° |</l>
+                            <l xml:id="b17_h001_04_b">°°° |</l>
+                            <l xml:id="b17_h001_04_c">°°° hva índraṃ</l>
+                            <l xml:id="b17_h001_04_d">priyáḥ paśūnā́ṃ bhūyāsam ||<note
+                                    xml:id="anm3231" n="3231" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> (viṣāsahíṃ ° | etc.). <ref target="#N">N.</ref> hat für
+                                    17.1.4 priyáḥ paśūnā́ṃ bhūyāsam || 4 ||. So auch die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>). <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> und <bibl><ref target="#deshpande_2002"
+                                            >Deshpande 2002</ref></bibl> schreiben den Text in
+                                    vollem Umfang. <ref target="#AVP">AVP</ref> 18.54.4h hat paśūnāṃ
+                                    priyo bhūyāsam.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_05" n="17.1.5" type="stanza">
+                        <head>abc = 17.1.1abc = P 18.54.1abc = P 18.54.4abc • d = Ś 17.1.1d ~ P
+                            18.54.1f = P 18.54.4f • e = Ś 17.1.1e ~ P 18.54.1g = P 18.54.4g • f nur
+                            hier</head>
+                        <lg>
+                            <l xml:id="b17_h001_05_a">viṣāsahíṃ sáhamānaṃ</l>
+                            <l xml:id="b17_h001_05_b">sāsahānáṃ sáhīyāṃsam |</l>
+                            <l xml:id="b17_h001_05_c">sáhamānaṃ sahojítaṃ</l>
+                            <l xml:id="b17_h001_05_d">svarjítaṃ gojítaṃ saṃdhanājítam |</l>
+                            <l xml:id="b17_h001_05_e">ī́ḍyaṃ nā́ma hva índraṃ</l>
+                            <l xml:id="b17_h001_05_f">priyáḥ samānā́nāṃ bhūyāsam ||<note
+                                    xml:id="anm3232" n="3232" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> Die Jaṭāpāṭha-Mss.
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) haben für 17.1.5 índraṃ priyáḥ
+                                    samānā́nāṃ bhūyāsam || 5 || (Deshpande ebd. schreibt den Text in
+                                    vollem Umfang).</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_06" n="17.1.6" type="stanza">
+                        <head>a = Ś 17.1.7a = P 18.55.1a = P 18.55.2a • b = Ś 3.20.10b = Ś 17.1.7b =
+                            P 18.55.1b = P 18.55.2b ~ P 3.34.11b • c = P 18.55.1c • d = Ś 17.1.24d =
+                            P 18.55.1d [~ <ref target="#ManSS">MānŚS</ref> 1.6.2.17d] • ef = Ś 17.1.19ef = Ś f 17.1.24ef = P
+                            18.55.1ef = P 18.55.2ef = P 18.55.3ef = P 18.55.4cd = P 18.55.5fg = P
+                            18.55.6ef = P 18.55.7ef = P 18.55.10ef = P 18.56.1ef = P 18.56.2ef = P
+                            18.56.3ef • g = Ś 17.1.19g = Ś 17.1.24g ~ P 18.55.1g = P 18.55.2g = P
+                            18.55.3g = P 18.55.4e = P 18.55.5h = P 18.55.6g = P 18.55.7g = P
+                            18.55.10g = P 18.56.1g = P 18.56.2g = P 18.56.3g</head>
+                        <lg>
+                            <l xml:id="b17_h001_06_a">úd ihy úd ihi sūrya</l>
+                            <l xml:id="b17_h001_06_b">várcasā mābhyúdihi |</l>
+                            <l xml:id="b17_h001_06_c">dviṣáṃś<note xml:id="anm3233" n="3233"
+                                    anchored="true" place="bottom"><bibl><ref target="#RWh"><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl> hat dviṣaṃś
+                                    (Druckfehler, den <persName ref="#MLindenau">Lindenau</persName>
+                                    in <bibl><ref target="#RWh2"><hi rend="sup">2</hi><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl> nicht
+                                    korrigiert).</note> ca máhyaṃ rádhyatu</l>
+                            <l xml:id="b17_h001_06_d">mā́ cāháṃ dviṣaté radhaṃ<note xml:id="anm3234"
+                                    n="3234" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#SPP">SPP</ref></bibl> und allen Mss.
+                                    einschließlich <ref target="#N">N.</ref> <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                                >R/Wh</hi></ref></bibl> setzt ein in den Mss.
+                                    unbelegtes Avasāna-Zeichen vor távéd. Der Grund dafür lautet:
+                                    „The mss. commit the absurdity throughout of the setting no
+                                    avasāna between the verse proper and the refrain; we have, as
+                                    required by the sense, introduced it our text. The refrain is,
+                                    as usual, represented in vss. 7-18 only by the táva in the mss.
+                                    (except R., which fills it out a little further)“ (<persName
+                                        ref="#WDWhitney">Whitney</persName> in <bibl><ref
+                                            target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl>). <persName ref="#CRLanman"
+                                        >Lanman</persName> in <bibl><ref target="#WhL"><hi
+                                                rend="smallcaps">Wh/L</hi></ref></bibl> (S. 805)
+                                    fügt hinzu: „It is a curious fact that the mss. do not separate
+                                    this refrain from the stock of the verse by an avasāna-mark; and
+                                    herein they are supported by the Anukr. ... the Berlin ed., ...,
+                                    inserts an avasāna-mark before the taved; and, so far as the
+                                    sense and structure go, it is imperativly demanded“. <ref target="#N">N.</ref> endet
+                                    für 1.1.7-18 immer mit „táva || 7 ||“ (so bis 18, vor táva kein
+                                    Avasāna-Zeichen). Abgesehen von der Nummerierungen wie bei
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> enden die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref>, siehe v.a. <biblScope unit="page" n="106"
+                                            >106, Anm. 27</biblScope></bibl>) ebenfalls mit táva ||
+                                    7 (etc.) ||. <bibl><ref target="#SPP">SPP</ref></bibl>s Pp.-Text
+                                    hat bis 17.1.8 (= <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                                >R/Wh</hi></ref></bibl>: 17.1.18) jedoch immer den
+                                    in vollem Umfang geschriebenen Text. Die <ref target="#AVP"
+                                        >AVP</ref>-Parallelstellen zu <ref target="#AVS">AVŚ</ref>
+                                    1.1.7-18 haben in der Regel ebenfalls den in vollem Umfang
+                                    geschriebenen Text (K. immer, Or. gelegentlich den gekürzten
+                                    Text bis tava, jedoch ohne Avasāna-Zeichen vor tava). Auf jeden
+                                    Fall ist der Avasāna-Marker vor táva weder in <ref target="#AVS"
+                                        >AVŚ</ref> noch in <ref target="#AVP">AVP</ref>
+                                    geschrieben.</note></l>
+                            <l xml:id="b17_h001_06_e">távéd viṣṇo bahudhā́ vīryāvṇi |</l>
+                            <l xml:id="b17_h001_06_f">tváṃ naḥ pr̥ṇīhi paśúbhir<note
+                                    xml:id="anm3235" n="3235" anchored="true" place="bottom">In
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>s Text fehlt
+                                    der Anudātta unter pa (Druckfehler). </note> viśvárūpaiḥ</l>
+                            <l xml:id="b17_h001_06_g">sudhā́yāṃ mā dhehi paramé vyòman ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_07" n="17.1.7" type="stanza">
+                        <head><note xml:id="anm3236" n="3236" anchored="true" place="bottom">Ab hier
+                                bis 17.1.18 werden die Strophen mit einem Refrain versehen, wie das
+                                in <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                    >R/Wh</hi></ref></bibl> (táve° ||) der Fall ist. <bibl><ref
+                                        target="#SPP">SPP</ref></bibl> und <bibl><ref
+                                        target="#deshpande_2002">Deshpande 2002</ref></bibl>
+                                schreiben dagegen die Texte in vollem Umfang. Die <ref target="#AVP"
+                                    >AVP</ref>-Parallelstellen sind, abgesehen von 18.55.8 (...
+                                śiśādhi tava || 8 ||) und 9 (... nādhamānās tava || 9 ||), ebenfalls
+                                in vollem Umfang geschrieben.</note> a = Ś 17.1.6a = P 18.55.1a = P
+                            18.55.2a • b = Ś 3.20.10b = Ś 17.1.6b = P 18.55.1b = P 18.55.2b ~ P
+                            3.34.11b • c = P 18.55.2c • d ~ P 18.55.2d</head>
+                        <lg>
+                            <l xml:id="b17_h001_07_a">úd ihy úd ihi sūrya</l>
+                            <l xml:id="b17_h001_07_b">várcasā mābhyúdihi |</l>
+                            <l xml:id="b17_h001_07_c">yā́ṃś ca páśyāmi yā́ṃś ca ná</l>
+                            <l xml:id="b17_h001_07_d">téṣu mā<note xml:id="anm3237" n="3237"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl>,
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> und allen Mss.
+                                        <persName ref="#WDWhitney">Whitney</persName> schreibt in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl>: „We should expect me for mā in
+                                    d; and the comm., on account of mā, takes sumatím as an
+                                    adjective (= çobhanabuddhiyuktam) ‒ which is not grammatically
+                                    impossible, but against alle Vedic usage“, siehe jedoch <ref
+                                        target="#RV">RV</ref> 9.88.7c: sumatír bhavā naḥ „sei uns
+                                    wohlgesinnt“ (Geldner), ein Beispiel dafür, daß sumatí- ein
+                                    Adjektiv ist. Die <ref target="#AVP">AVP</ref>-Parallelstelle
+                                    hat me, das syntaktisch besser ist.</note> sumatíṃ kr̥dhi</l>
+                            <l xml:id="b17_h001_07_e">táva°°° |</l>
+                            <l xml:id="b17_h001_07_f">°°° ||<note xml:id="anm3238" n="3238"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... kr̥dhi táva || 7 ||“. So auch die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>). <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> und <bibl><ref target="#deshpande_2002"
+                                            >Deshpande 2002</ref></bibl> schreiben den Text in
+                                    vollem Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_08" n="17.1.8" type="stanza">
+                        <head>= P 18.55.3 • d = Ś 17.1.11d</head>
+                        <lg>
+                            <l xml:id="b17_h001_08_a">mā́ tvā dabhant salilé apsv à1ntár</l>
+                            <l xml:id="b17_h001_08_b">yé pāśína upatíṣṭhanty átra |</l>
+                            <l xml:id="b17_h001_08_c">hitvā́śastiṃ dívam ā́rukṣa<note
+                                    xml:id="anm3239" n="3239" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> hat ā́ rukṣa (<bibl><ref
+                                            target="#WhI"><hi rend="smallcaps"
+                                    >WhI</hi></ref></bibl>: ā́ rukṣas), siehe jedoch <persName
+                                        ref="#WDWhitney">Whitney</persName>s Kommentar in <bibl><ref
+                                            target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl>: „Bp. reads in d ā́ : rukṣaḥ; D.Kp.
+                                    and all <bibl><ref target="#SPP">SPP</ref></bibl>´s authotities
+                                    have ā́ : ar-, which is doubtless the true pada-text“, wonach zu
+                                    erwarten wäre, daß <persName ref="#MLindenau"
+                                        >Lindenau</persName> in <bibl><ref target="#RWh2"><hi
+                                                rend="sup">2</hi><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> ā́ rukṣa zu ā́rukṣa korrigiert,
+                                    was aber nicht geschah. Zu ā́rukṣas siehe Hoffmann 1967, 110.
+                                    Die <ref target="#AVP">AVP</ref>-Parallelstelle hat ebenfalls
+                                    ārukṣa (so richtig <bibl><ref target="#Bhatt2011"><hi
+                                                rend="smallcaps">Bhatt</hi>
+                                    2011</ref></bibl>).</note> etā́ṃ</l>
+                            <l xml:id="b17_h001_08_d">sá no mr̥ḍa sumatáu te syāma</l>
+                            <l xml:id="b17_h001_08_e">táva°°° |</l>
+                            <l xml:id="b17_h001_08_f">°°° ||<note xml:id="anm3240" n="3240"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... syāma táva || 8 ||“. So auch die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>). <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> und <bibl><ref target="#deshpande_2002"
+                                            >Deshpande 2002</ref></bibl> schreiben den Text in
+                                    vollem Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_09" n="17.1.9" type="stanza">
+                        <head>a = P 18.55.4a • b ~ P 18.55.4b</head>
+                        <lg>
+                            <l xml:id="b17_h001_09_a">tváṃ na indra mahaté sáubhagāya-</l>
+                            <l xml:id="b17_h001_09_b">-ádabdhebhiḥ pári pāhy aktúbhis</l>
+                            <l xml:id="b17_h001_09_c">táva°°° |</l>
+                            <l xml:id="b17_h001_09_d">°°° ||<note xml:id="anm3241" n="3241"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... aktúbhis táva || 9 ||“. So auch die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>). <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> und <bibl><ref target="#deshpande_2002"
+                                            >Deshpande 2002</ref></bibl> schreiben den Text in
+                                    vollem Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_10" n="17.1.10" type="stanza">
+                        <head>= P 18.55.5 • d ~ Ś 20.23.1b [= <ref target="#RV">RV</ref>
+                            3.41.1b]</head>
+                        <lg>
+                            <l xml:id="b17_h001_10_a">tváṃ na indrotíbhiḥ</l>
+                            <l xml:id="b17_h001_10_b">śivā́bhiḥ śáṃtamo bhava |</l>
+                            <l xml:id="b17_h001_10_c">āróhaṃs tridiváṃ divó</l>
+                            <l xml:id="b17_h001_10_d">gr̥ṇānáḥ sómapītaye</l>
+                            <l xml:id="b17_h001_10_e">priyádhāmā svastáye</l>
+                            <l xml:id="b17_h001_10_f">táva°°° |</l>
+                            <l xml:id="b17_h001_10_g">°°° || (1) ||<note xml:id="anm3242" n="3242"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... svastáye táva || 10 ||“. So auch die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>). <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> und <bibl><ref target="#deshpande_2002"
+                                            >Deshpande 2002</ref></bibl> schreiben den Text in
+                                    vollem Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_11" n="17.1.11" type="stanza">
+                        <head>ab = P 18.55.6ab • c nur hier<note xml:id="anm3243" n="3243"
+                                anchored="true" place="bottom">Nach Ausweis der <ref target="#AVP"
+                                    >AVP</ref>-Parallelstelle scheint, daß tvám indra° in c sekundär
+                                (Wiederholung von b?) ist. Ohne tvám indra° in c hätte man ein
+                                korrektes Metrum.</note> • d = Ś 17.1.8d = P 18.55.3d</head>
+                        <lg>
+                            <l xml:id="b17_h001_11_a">tvám indrāsi viśvajít</l>
+                            <l xml:id="b17_h001_11_b">sarvavít puruhūtás tvám indra |</l>
+                            <l xml:id="b17_h001_11_c">tvám indremáṃ suhávaṃ stómam érayasva</l>
+                            <l xml:id="b17_h001_11_d">sá no mr̥ḍa sumatáu te syāma</l>
+                            <l xml:id="b17_h001_11_e">táva°°° |</l>
+                            <l xml:id="b17_h001_11_f">°°° ||<note xml:id="anm3244" n="3244"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... syāma táva || 11 ||“. Die Jaṭāpāṭha-Mss.
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... syāma táva || 1 (11)
+                                ||. <bibl><ref target="#SPP">SPP</ref></bibl> und <bibl><ref target="#deshpande_2002">Deshpande
+                                    2002</ref></bibl>
+                                    schreiben den Text in vollem Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_12" n="17.1.12" type="stanza">
+                        <head>= P 18.55.7</head>
+                        <lg>
+                            <l xml:id="b17_h001_12_a">ádabdho diví pr̥thivyā́m utā́si</l>
+                            <l xml:id="b17_h001_12_b">ná ta āpur mahimā́nam antárikṣe |</l>
+                            <l xml:id="b17_h001_12_c">ádabdhena bráhmaṇā vāvr̥dhānáḥ</l>
+                            <l xml:id="b17_h001_12_d">sá tváṃ na indra diví ṣáṃ chárma<note
+                                    xml:id="anm3245" n="3245" anchored="true" place="bottom"
+                                            ><bibl><ref target="#SPP">SPP</ref></bibl> hat ṣáṃchárma
+                                    (ohne Spatium).</note> yacha</l>
+                            <l xml:id="b17_h001_12_e">táva°°° |</l>
+                            <l xml:id="b17_h001_12_f">°°° ||<note xml:id="anm3246" n="3246"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... yacha táva || 12 ||“. Die Jaṭāpāṭha-Mss.
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... yacha táva || 2 (12)
+                                ||. <bibl><ref target="#SPP">SPP</ref></bibl> und <bibl><ref target="#deshpande_2002">Deshpande
+                                    2002</ref></bibl>
+                                    schreiben den Text in vollem Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_13" n="17.1.13" type="stanza">
+                        <head>abcd ~ P 18.55.8abcd • e nur hier</head>
+                        <lg>
+                            <l xml:id="b17_h001_13_a">yā́ ta indra tanū́r apsú</l>
+                            <l xml:id="b17_h001_13_b">yā́ pr̥thivyā́ṃ yā́ntár agnáu</l>
+                            <l xml:id="b17_h001_13_c">yā́ ta indra pávamāne svarvídi |</l>
+                            <l xml:id="b17_h001_13_d">yáyendra tanvāv3ntárikṣaṃ vyā́pitha⁎<note
+                                    xml:id="anm3247" n="3247" anchored="true" place="bottom">So
+                                    bereits emendiert in <bibl><ref target="#RWh1"><hi rend="sup"
+                                                >1</hi><hi rend="smallcaps">R/Wh</hi></ref></bibl>
+                                        (<persName ref="#WDWhitney">Whitney</persName> in <bibl><ref
+                                            target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl>: „in accordance with the invariable
+                                    accentuation of such forms in <ref target="#RV">RV</ref>. and
+                                    AV. elsewhere“), siehe auch <bibl><ref target="#WhI"><hi
+                                                rend="smallcaps">WhI</hi></ref></bibl>: „vi°ā́pitha
+                                    ... (mss. vi°āpitha, -thá)“. <persName ref="#WDWhitney"
+                                        >Whitney</persName>s Kommentar (ebd.) ist zu entnehmen, daß
+                                    nur D. und R.p.m. vyāpithá, der Rest vyāpitha lesen. <bibl><ref
+                                            target="#RH">RH</ref></bibl> schreibt aber, daß auch
+                                    BiS. (= K. bei <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                                >Wh/L</hi></ref></bibl>) vyāpithá liest. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl> setzt vyāpithá in den
+                                    Text, während der Großteil seiner Mss. (A., B., C., D., E., R.,
+                                        S<hi rend="sup">m</hi>. und Cs.) vyāpitha liest. <ref target="#N">N.</ref> und die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) lesen vyāpitha.</note></l>
+                            <l xml:id="b17_h001_13_e">táyā na indra tanvāv3 śárma yacha</l>
+                            <l xml:id="b17_h001_13_f">táva°°° |</l>
+                            <l xml:id="b17_h001_13_g">°°° ||<note xml:id="anm3248" n="3248"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... yacha táva || 13 ||“. Die Jaṭāpāṭha-Mss.
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... yacha táva || 3 (13)
+                                ||. <bibl><ref target="#SPP">SPP</ref></bibl> und <bibl><ref target="#deshpande_2002">Deshpande
+                                    2002</ref></bibl>
+                                    schreiben den Text in vollem Umfang. </note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_14" n="17.1.14" type="stanza">
+                        <head>= P 18.55.9</head>
+                        <lg>
+                            <l xml:id="b17_h001_14_a">tvā́m indra bráhmaṇā vardháyantaḥ</l>
+                            <l xml:id="b17_h001_14_b">satráṃ ní ṣedur ŕ̥ṣayo nā́dhamānās</l>
+                            <l xml:id="b17_h001_14_c">táva°°° |</l>
+                            <l xml:id="b17_h001_14_d">°°° ||<note xml:id="anm3249" n="3249"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... nā́dhamānās táva || 14 ||“. Die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... nā́dhamānās táva || 4
+                                    (14) ||. <bibl><ref target="#SPP">SPP</ref></bibl> und
+                                            <bibl><ref target="#deshpande_2002">Deshpande
+                                        2002</ref></bibl> schreiben den Text in vollem
+                                    Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_15" n="17.1.15" type="stanza">
+                        <head>ab = P 18.56.1cd</head>
+                        <lg>
+                            <l xml:id="b17_h001_15_a">tváṃ tritáṃ*<note xml:id="anm3250" n="3250"
+                                    anchored="true" place="bottom">So vom Verfasser emendiert, siehe
+                                    dazu den Kommentar zu 5.1.1d. <bibl><ref target="#RWh"><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl>, <bibl><ref
+                                            target="#SPP">SPP</ref></bibl> und alle Mss. außer <ref target="#N">N.</ref>
+                                    (ttutáṃ) haben tr̥táṃ. Nur der indische Kommentator liest
+                                    tritáṃ, wozu <persName ref="#WDWhitney">Whitney</persName> in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl> sagt: „and we cannot well
+                                    believe that the latter [= tritám] is not the true reading;
+                                    though the sense of the whole verse is extremely obscure“
+                                        (<persName ref="#MLindenau">Lindenau</persName> vermerkt in
+                                            <bibl><ref target="#RWh2"><hi rend="sup">2</hi><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl> „Lies:
+                                    tritám (?); RW<hi rend="sup">1</hi> : tṛtám“, aber er beläßt
+                                    tr̥táṃ im Text). An der <ref target="#AVP"
+                                    >AVP</ref>-Parallelstelle lesen die Or.- Mss. tr̥taṃ (so auch im
+                                    Text von <bibl><ref target="#Bhatt2011"><hi rend="smallcaps"
+                                                >Bhatt</hi> 2011</ref></bibl>), aber K. tritan (vor
+                                    tv-). Möglicherweise hat tritá- hier die ursprüngliche Bedeutung
+                                    „der dritte“, siehe <bibl><ref target="#EWAia">EWAia I</ref>,
+                                            <biblScope unit="page" from="680" to="681"
+                                            >680f.</biblScope></bibl></note> tváṃ páry eṣy útsaṃ</l>
+                            <l xml:id="b17_h001_15_b">sahásradhāraṃ vidáthaṃ svarvídaṃ</l>
+                            <l xml:id="b17_h001_15_c">táva°°° |</l>
+                            <l xml:id="b17_h001_15_d">°°° ||<note xml:id="anm3251" n="3251"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... svarvídaṃ táva || 15 ||“. Die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... svarvídaṃ táva || 5
+                                    (15) ||. <bibl><ref target="#SPP">SPP</ref></bibl> und
+                                            <bibl><ref target="#deshpande_2002">Deshpande
+                                        2002</ref></bibl> schreiben den Text in vollem
+                                    Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_16" n="17.1.16" type="stanza">
+                        <head>ab = P 18.55.10ab • c ~ P 18.55.10d • d = P 18.55.10c ~ P
+                            19.46.4d</head>
+                        <lg>
+                            <l xml:id="b17_h001_16_a">tváṃ rakṣase pradíśaś cátasras</l>
+                            <l xml:id="b17_h001_16_b">tváṃ śocíṣā nábhasī ví bhāsi |</l>
+                            <l xml:id="b17_h001_16_c">tvám imā́ víśvā bhúvanā́nu tiṣṭhasa</l>
+                            <l xml:id="b17_h001_16_d">r̥tásya pánthām ánv eṣi vidvā́ṃs</l>
+                            <l xml:id="b17_h001_16_e">táva°°° |</l>
+                            <l xml:id="b17_h001_16_f">°°° ||<note xml:id="anm3252" n="3252"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... vidvā́ṃs táva || 16 ||“. Die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... vidvā́ṃs táva || 6 (16)
+                                ||. <bibl><ref target="#SPP">SPP</ref></bibl> und <bibl><ref target="#deshpande_2002">Deshpande
+                                    2002</ref></bibl>
+                                    schreiben den Text in vollem Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_17" n="17.1.17" type="stanza">
+                        <head>a ~ 18.56.1a • b = P 18.56.1b </head>
+                        <lg>
+                            <l xml:id="b17_h001_17_a">pañcábhiḥ párāṅ tapasy ékayārvā́ṅ</l>
+                            <l xml:id="b17_h001_17_b">áśastim eṣi sudíne bā́dhamānas</l>
+                            <l xml:id="b17_h001_17_c">táva°°° |</l>
+                            <l xml:id="b17_h001_17_d">°°° ||<note xml:id="anm3253" n="3253"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... bā́dhamānas táva || 17 ||“. Die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... bā́dhamānas táva || 7
+                                    (17) ||. <bibl><ref target="#SPP">SPP</ref></bibl> und
+                                            <bibl><ref target="#deshpande_2002">Deshpande
+                                        2002</ref></bibl> schreiben den Text in vollem
+                                    Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_18" n="17.1.18" type="stanza">
+                        <head>acd = P 18.56.2acd • b ~ P 18.56.2b</head>
+                        <lg>
+                            <l xml:id="b17_h001_18_a">tvám índras tváṃ mahendrás</l>
+                            <l xml:id="b17_h001_18_b">tváṃ<note xml:id="anm3254" n="3254"
+                                    anchored="true" place="bottom">In <bibl><ref target="#RWh1"><hi
+                                                rend="sup">1</hi><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> steht tvá, ein Druckfehler
+                                    (siehe <persName ref="#WDWhitney">Whitney</persName>s Kommentar
+                                    in <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl>), den <persName ref="#MLindenau"
+                                        >Lindenau</persName> in <bibl><ref target="#RWh2"><hi
+                                                rend="sup">2</hi><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> mit der Anmerkung „tvám; in
+                                        RW<hi rend="sup">1</hi> fehlt das m“ verbessert.</note>
+                                lokás tváṃ prajā́patiḥ |</l>
+                            <l xml:id="b17_h001_18_c">túbhyaṃ yajñó ví tāyate<note xml:id="anm3255"
+                                    n="3255" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> (ohne Mss.-Variante). <persName
+                                        ref="#WDWhitney">Whitney</persName> gibt in <bibl><ref
+                                            target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl> an, daß Bp., P., M., W., T. und
+                                    R.p.m. jāyate lesen. Auch <ref target="#N">N.</ref> liest jāyate. Die Jaṭāpāṭha-Mss.
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) haben tāyate. An der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle lesen die Or.- Mss.
+                                    tāyate (so <bibl><ref target="#Bhatt2011"><hi rend="smallcaps"
+                                                >Bhatt</hi> 2011</ref></bibl> im Text), K. aber
+                                    [ya]jāyate.</note></l>
+                            <l xml:id="b17_h001_18_d">túbhyaṃ juhvati júhvatas</l>
+                            <l xml:id="b17_h001_18_e">táva°°° |</l>
+                            <l xml:id="b17_h001_18_f">°°° ||<note xml:id="anm3256" n="3256"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> (táve°
+                                    ||). <ref target="#N">N.</ref> endet mit „... júhvatas táva || 18 ||“. Die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... bā́dhamānas táva || 8
+                                    (18) ||. <bibl><ref target="#SPP">SPP</ref></bibl> und
+                                            <bibl><ref target="#deshpande_2002">Deshpande
+                                        2002</ref></bibl> schreiben den Text in vollem
+                                    Umfang.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_19" n="17.1.19" type="stanza">
+                        <head>abc = P 18.56.3abc • d ~ P 18.56.3d • ef = Ś 17.1.6ef = Ś 17.1.24ef =
+                            P 18.55.1ef = P 18.55.2ef = P 18.55.3ef = P 18.55.4cd = P 18.55.5fg = P
+                            18.55.6ef = P 18.55.7ef = P 18.55.10ef = P 18.56.1ef = P 18.56.2ef = P
+                            18.56.3ef • g = Ś 17.1.6g = Ś 17.1.24g ~ P 18.55.1g = P 18.55.2g = P
+                            18.55.3g = P 18.55.4e = P 18.55.5h = P 18.55.6g = P 18.55.7g = P
+                            18.55.10g = P 18.56.1g = P 18.56.2g = P 18.56.3g</head>
+                        <lg>
+                            <l xml:id="b17_h001_19_a">ásati sát prátiṣṭhitaṃ</l>
+                            <l xml:id="b17_h001_19_b">satí bhūtáṃ prátiṣṭhitam |</l>
+                            <l xml:id="b17_h001_19_c">bhūtáṃ ha bhávya ā́hitaṃ</l>
+                            <l xml:id="b17_h001_19_d">bhávyaṃ bhūté prátiṣṭhitaṃ</l>
+                            <l xml:id="b17_h001_19_e">távéd viṣṇo bahudhā́ vīryāvṇi |</l>
+                            <l xml:id="b17_h001_19_f">tváṃ naḥ pr̥ṇīhi paśúbhir viśvárūpaiḥ</l>
+                            <l xml:id="b17_h001_19_g">sudhā́yāṃ mā dhehi paramé vyòman ||<note
+                                    xml:id="anm3257" n="3257" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> Die Jaṭāpāṭha-Mss.
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... prátiṣṭhitaṃ távét || 9
+                                    (19) || mit dem Zusatz: „itaḥ paraṃ pūrvoktaṃ paṭhanīyam“,
+                                    wonach <bibl><ref target="#deshpande_2002">Deshpande
+                                        2002</ref></bibl> den Text in vollem Umfang
+                                schreibt.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_20" n="17.1.20" type="stanza">
+                        <head>= P 18.56.4 = P 19.44.2 • a = Ś 2.11.5a = P 1.57.5a = P
+                            19.44.21a</head>
+                        <lg>
+                            <l xml:id="b17_h001_20_a">śukrò ’si bhrājò ’si |</l>
+                            <l xml:id="b17_h001_20_b">sá yáthā tváṃ bhrā́jatā bhrājó ’sy<note
+                                    xml:id="anm3258" n="3258" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> und der Jaṭāpāṭha-Text
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>). <bibl><ref target="#RH"
+                                        >RH</ref></bibl> gibt an, daß Bo. korrekt ási liest (so auch
+                                    in 21b). <persName ref="#WDWhitney">Whitney</persName>
+                                    informiert in <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                                >Wh/L</hi></ref></bibl>, daß P., M., I. und T.
+                                    bhrājò lesen. Alle Pp.-Texte von <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> haben asi (21b jedoch: ási). Die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) lesen bald asi, bald ási (21b jedoch
+                                    ási).</note></l>
+                            <l xml:id="b17_h001_20_c">evā́háṃ bhrā́jatā bhrājyāsam || (2) ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_21" n="17.1.21" type="stanza">
+                        <head>ab = P 18.56.5ab • c ~ P 18.56.5c</head>
+                        <lg>
+                            <l xml:id="b17_h001_21_a">rúcir asi rocò ’si |</l>
+                            <l xml:id="b17_h001_21_b">sá yáthā tváṃ rúcyā rocó ’sy<note
+                                    xml:id="anm3259" n="3259" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> und der Jaṭāpāṭha-Text
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>). <persName ref="#WDWhitney"
+                                        >Whitney</persName> teilt in <bibl><ref target="#WhL"><hi
+                                                rend="smallcaps">Wh/L</hi></ref></bibl> mit, daß P.,
+                                    M. und T. rocò lesen. <bibl><ref target="#RH">RH</ref></bibl>
+                                    ergänzt, daß BiS. ebenfalls rocò und Bo. ási lesen. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Mss. teilen sich in
+                                    asi (P.) und ási (P<hi rend="sup">2</hi>., J. und Cp.). Die
+                                    Jaṭāpāṭha-Mss. (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) lesen einheitlich ási.</note></l>
+                            <l xml:id="b17_h001_21_c">evā́háṃ paśúbhiś ca brāhmaṇavarcaséna ca
+                                    ruciṣīya<note xml:id="anm3260" n="3260" anchored="true"
+                                    place="bottom">So mit <bibl><ref target="#RWh"><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. So auch <ref target="#N">N.</ref>
+                                    Die Jaṭāpāṭha-Mss. lesen rucīṣīya, das <bibl><ref
+                                            target="#deshpande_2002">Deshpande 2002</ref></bibl> im
+                                    Text druckt. Die <ref target="#AVP">AVP</ref>-Parallelstelle hat
+                                    rociṣīya (<bibl><ref target="#Bhatt2011"><hi rend="smallcaps"
+                                                >Bhatt</hi> 2011</ref></bibl>). Zu ruciṣīya und
+                                    rociṣīya siehe <bibl><ref target="#whitney_1879">Whitney
+                                            1879</ref>
+                                        <biblScope>§907</biblScope></bibl>, <bibl><ref
+                                            target="#narten_1964">Narten 1964</ref>, <biblScope
+                                            unit="page" from="227" to="228"
+                                    >227f.</biblScope></bibl>, und <bibl><ref
+                                            target="#Hoffm.Aufs.I-II">Hoffm.Aufs. I</ref>,
+                                            <biblScope unit="page" from="254" to="255"
+                                            >254f.</biblScope></bibl> Die abweichende Form rucīṣīya
+                                    in den Jaṭāpāṭha-Mss. scheint von 1.Sg.Aor.Opt. rucīya (<ref target="#TA">TĀ</ref>)
+                                    beeinflußt worden zu sein (rucīya &gt; rucīṣīya).</note> ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_22" n="17.1.22" type="stanza">
+                        <head>ab = P 18.56.5ab • c ~ P 18.56.5c</head>
+                        <lg>
+                            <l xml:id="b17_h001_22_a">udyaté náma udāyaté náma úditāya námaḥ |</l>
+                            <l xml:id="b17_h001_22_b">virā́je námaḥ svarā́je námaḥ samrā́je námaḥ
+                                ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_23" n="17.1.23" type="stanza">
+                        <head>= P 18.56.7 • b = Ś 17.1.22b = P 18.56.6b</head>
+                        <lg>
+                            <l xml:id="b17_h001_23_a">astaṃyaté námo ’stameṣyaté námó ’stamitāya
+                                námaḥ |</l>
+                            <l xml:id="b17_h001_23_b">virā́je námaḥ svarā́je námaḥ samrā́je námaḥ
+                                    ||<note xml:id="anm3261" n="3261" anchored="true" place="bottom"
+                                    >So mit <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> Die Jaṭāpāṭha-Mss.
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... stamitāya námaḥ || 3
+                                    (23) || und fügen hinzu: „virāje nama iti pūrvoktaṃ paṭhet“
+                                    fort, wonach <bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl> den Text in vollem Umfang
+                                    schreibt.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_24" n="17.1.24" type="stanza">
+                        <head>a [= <ref target="#RV">RV</ref> 1.50.13a etc.] • b [~ <ref
+                                target="#RV">RV</ref> 1.50.13b etc.] • c [~ <ref target="#RV"
+                                >RV</ref> 1.50.13c ~ TB 3.7.6.23c etc.] • d = Ś 17.1.6d = P 18.55.1d
+                            [~ <ref target="#ManSS">MānŚS</ref> 1.6.2.17d] • ef = Ś 17.1.6ef = Ś 17.1.19ef = P 18.55.1ef = P
+                            18.55.2ef = P 18.55.3ef = P 18.55.4cd = P 18.55.5fg = P 18.55.6ef = P
+                            18.55.7ef = P 18.55.10ef = P 18.56.1ef = P 18.56.2ef = P 18.56.3ef • g =
+                            Ś 17.1.6g = Ś 17.1.19g ~ P 18.55.1g = P 18.55.2g = P 18.55.3g = P
+                            18.55.4e = P 18.55.5h = P 18.55.6g = P 18.55.7g = P 18.55.10g = P
+                            18.56.1g = P 18.56.2g = P 18.56.3g</head>
+                        <lg>
+                            <l xml:id="b17_h001_24_a">úd agād ayám ādityó</l>
+                            <l xml:id="b17_h001_24_b">víśvena tápasā sahá |</l>
+                            <l xml:id="b17_h001_24_c">sapátnān máhyaṃ randháyan</l>
+                            <l xml:id="b17_h001_24_d">mā́ cāháṃ dviṣaté radhaṃ</l>
+                            <l xml:id="b17_h001_24_e">távéd viṣṇo bahudhā́ vīryāvṇi |</l>
+                            <l xml:id="b17_h001_24_f">tváṃ naḥ pr̥ṇīhi paśúbhir viśvárūpaiḥ</l>
+                            <l xml:id="b17_h001_24_g">sudhā́yāṃ mā dhehi paramé vyòman ||<note
+                                    xml:id="anm3262" n="3262" anchored="true" place="bottom"> So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> Die Jaṭāpāṭha-Mss.
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) enden mit ... stamitāya námaḥ || 3
+                                    (23) || und fügen hinzu: „virāje nama iti pūrvoktaṃ paṭhet“
+                                    fort, wonach <bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl> den Text in vollem Umfang
+                                    schreibt.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_25" n="17.1.25" type="stanza">
+                        <head>a ~ P 18.56.8a [~ <ref target="#ManB">ManB</ref> 2.5.14a] • b = Ś 17.1.26b = P 18.56.8b = P
+                            18.56.9b • c ~ P 18.56.8c [= <ref target="#ManB">ManB</ref> 2.5.13a etc.] • d ~ P 18.56.8d</head>
+                        <lg>
+                            <l xml:id="b17_h001_25_a">ā́ditya nā́vam ā́rukṣaḥ</l>
+                            <l xml:id="b17_h001_25_b">śatā́ritrāṃ<note xml:id="anm3263" n="3263"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (so ebenfalls
+                                    Pp.-Mss.). So auch <ref target="#N">N.</ref> Die Jaṭāpāṭha-Mss. (<bibl><ref
+                                            target="#deshpande_2002">Deshpande 2002</ref></bibl>)
+                                    lesen śatā́ritraṃ (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl> so auch im Text), was sehr
+                                    ungewöhnlich ist, weil náu- „Boot“ ein Femininum ist. Die
+                                    gleiche Handschriftenlage liegt auch 17.1.26b vor.</note>
+                                svastáye |</l>
+                            <l xml:id="b17_h001_25_c">áhar mā́ty apīparo</l>
+                            <l xml:id="b17_h001_25_d">rā́triṃ satrā́ti pāraya ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_26" n="17.1.26" type="stanza">
+                        <head>ad ~ P 18.56.9ad • b = Ś 17.1.25b = P 18.56.8b = P 18.56.9b • c ~ P
+                            18.56.9c [~ <ref target="#ManB">ManB</ref> 2.5.13c etc]</head>
+                        <lg>
+                            <l xml:id="b17_h001_26_a">sū́rya nā́vam ā́rukṣaḥ</l>
+                            <l xml:id="b17_h001_26_b">śatā́ritrāṃ svastáye |</l>
+                            <l xml:id="b17_h001_26_c">rā́triṃ mā́ty apīparó</l>
+                            <l xml:id="b17_h001_26_d">’haḥ satrā́ti pāraya ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_27" n="17.1.27" type="stanza">
+                        <head>= P 18.56.10 • b = Ś 17.1.28b = P 18.56.12b</head>
+                        <lg>
+                            <l xml:id="b17_h001_27_a">prajā́pater ā́vr̥to bráhmaṇā<note
+                                    xml:id="anm3264" n="3264" anchored="true" place="bottom"
+                                        ><persName ref="#WDWhitney">Whitney</persName> schreibt in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl>: „It is plain that bráhmaṇā,
+                                    which is metrically redundant, has slipped in here out of 28 a;
+                                    but it appears to be found also in Ppp., as in the text of the
+                                    comm.“, was Beachtung verdient. Falls das so ist, dürfte das
+                                    metrisch redundante brahmaṇā in einer gemeinsamsen Phase der
+                                    beiden Rezensionen überführt worden sein.</note> vármaṇāháṃ</l>
+                            <l xml:id="b17_h001_27_b">kaśyápasya jyótiṣā várcasā ca |</l>
+                            <l xml:id="b17_h001_27_c">jarádaṣṭiḥ kr̥távīryo víhāyāḥ</l>
+                            <l xml:id="b17_h001_27_d">sahásrāyuḥ súkr̥taś careyam ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_28" n="17.1.28" type="stanza">
+                        <head>a = P 18.56.12a • b = Ś 17.1.27b = P 18.56.10b = P 18.56.12b • cd = P
+                            18.56.11cd</head>
+                        <lg>
+                            <l xml:id="b17_h001_28_a">párīvr̥to<note xml:id="anm3265" n="3265"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. So auch <ref target="#N">N.</ref>
+                                    Die Jaṭāpāṭha-Mss. lesen párivr̥to (<bibl><ref
+                                            target="#deshpande_2002">Deshpande 2002</ref></bibl> so
+                                    auch im Text), vgl. pári°vr̥taḥ | in <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>s PP.-Text.</note> bráhmaṇā
+                                vármaṇāháṃ</l>
+                            <l xml:id="b17_h001_28_b">kaśyápasya jyótiṣā várcasā ca |</l>
+                            <l xml:id="b17_h001_28_c">mā́ mā prā́pann íṣavo dáivyā yā́</l>
+                            <l xml:id="b17_h001_28_d">mā́ mā́nuṣīr ávasr̥ṣṭā vadhā́ya ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_29" n="17.1.29" type="stanza">
+                        <head>a = P 18.56.11a • b ~ P 18.56.11b • c = P 18.56.12c • d ~ P
+                            18.56.12d</head>
+                        <lg>
+                            <l xml:id="b17_h001_29_a">r̥téna guptá r̥túbhiś ca sárvair</l>
+                            <l xml:id="b17_h001_29_b">bhūténa guptó bhávyena cāhám |</l>
+                            <l xml:id="b17_h001_29_c">mā́ mā prā́pat pāpmā́ mótá mr̥tyúr</l>
+                            <l xml:id="b17_h001_29_d">antár dadhe ’háṃ saliléna vācáḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b17_h001_30" n="17.1.30" type="stanza">
+                        <head>ad ~ P 18.56.13ad • bc = P 18.56.13cb</head>
+                        <lg>
+                            <l xml:id="b17_h001_30_a">agnír mā goptā́ pári pātu viśváta</l>
+                            <l xml:id="b17_h001_30_b">udyánt sū́ryo nudatāṃ mr̥tyupāśā́n |</l>
+                            <l xml:id="b17_h001_30_c">vyuchántīr uṣásaḥ párvatā<note
+                                    xml:id="anm3266" n="3266" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> Die Jaṭāpāṭha-Mss.
+                                            (<bibl><ref target="#deshpande_2002">Deshpande
+                                            2002</ref></bibl>) lesen párvatān, das syntaktisch hier
+                                    kaum möglich ist. Deshpande (ebd.) nimmt trotzdem diese Lesart
+                                    in den Text auf.</note> dhruvā́ḥ</l>
+                            <l xml:id="b17_h001_30_d">sahásraṃ prāṇā́ máyy ā́ yatantām || 1 || (3)
+                                || a 1 ||<note xml:id="anm3267" n="3267" anchored="true"
+                                    place="bottom"><persName ref="#CRLanman">Lanman</persName>
+                                    berichtet in <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                                >Wh/L</hi></ref></bibl>: „Here ends the first and
+                                    sole anuvāka, with 1 hymn and 30 verses. The words prathamo
+                                    ‛nuvākaḥ are not printed here in either edition, but are found
+                                    in several of W´s mss. The quotation from the Old Anukr. is ity
+                                    etat samanukrāntam ṛcas triṅçad “viṣāsahiḥ”. Here ends also the
+                                    thirty-second prapāṭhaka“. <bibl><ref target="#RH"
+                                        >RH</ref></bibl> fügt hinzu: [Bo.] „Kâṇḍasûkta | 1 | r̥câ 30
+                                    | ity etat samanukrântam r̥canni(+trim̐)sad vishâ | sahiḥ | 30
+                                    |“. <bibl><ref target="#WhK"><hi rend="smallcaps"
+                                        >WhK</hi></ref></bibl> ist zu entnehmen, daß Bp. mit
+                                    „yatantām || 10 || ety etat samanukrāṃtam r̥cas triṃṣad
+                                    viṣāsahiḥ || dvātriṃśaḥ prapāṭhakaḥ || evaṃ kāṃḍe sūkta || 1 ||
+                                    r̥cā || 30 || saptadaśamaṃ kāṃḍaṃ samāptam || cha || 3 ||“ (W.
+                                    und I.: ... ity etat ...) endet. B. und E. lesen kāṃḍasūkta || 1
+                                    || r̥cā || 30 || ity °-°hiḥ || prathamo nuvākaḥ ||
+                                    dvātriṃśatimaḥ prapāṭhakaḥ || evaṃ kāṃḍe || anuvāka || 1 || r̥cā
+                                    || 30 || (I.: ... asya kāṃḍe sūkta 3 anuvāka r̥cā 30 ||). O. hat
+                                    ... || 10 || 3 || prathamo nuvākaḥ saptadaśamaṃ kāṇḍaṃ samāptam
+                                    || || saṃvat 1690 varṣe māghaśudi 3 bhaume || śrī viśāla
+                                    nagaravāstavyaṃ nāgarajñātīya || paṃḍit gapāsuta māṃnajīmeghā |
+                                    jāgeśvara | viśvanāthapaṭhana[rthaṃ?] māṃnajīnya likhitaṃ
+                                    madhupurimadhye || (zur Datierung vgl. <bibl><ref target="#WhL"
+                                                ><hi rend="smallcaps">Wh/L</hi></ref></bibl> cxiv).
+                                    <ref target="#N">N.</ref> endet mit „... yataṃtām || 30 || kāṇḍasūkta || 1 || r̥cā ||
+                                    30 || ity etat samanukrāṃtam r̥cas triṃśad viṣāsahiḥ ||
+                                    prathamonuvākaḥ || || dvātriṃśatimaḥ prapāṭhakaḥ || evaṃ kāṇḍa
+                                    anuvāka || 1 || arthasūkta || 1 || r̥cā || 30 || saptadaśamaṃ
+                                    kāṇḍaṃ samāptam || ||“. Der Jaṭāpāṭha-Text (<bibl><ref
+                                            target="#deshpande_2002">Deshpande 2002</ref></bibl>)
+                                    hat einen Kolophon: „ity atharvavede śaunakasaṃhitāyāṃ
+                                    jaṭāprakārapāṭhe saptadaśaṃ kāṇḍaṃ samāptam | saṃvat 1727 varṣe
+                                    śāke 1593 nā prathamavaiśākhavadi 9 ravau vāsare adyeha
+                                    śrīmadaṇahillapurapattanavāstavyaṃ ābhyantaranāgarajñātīya
+                                    (paṃ)colīnyānyāsutagovindajīsū pāṭhena paropakārārthe likhitam |
+                                    śrīrasa[••• ...] pāṭhitaḥ |“, wobei <bibl><ref
+                                            target="#deshpande_2002">Deshpande 2002</ref><biblScope
+                                            unit="page" n="127">127, Anm. 111</biblScope></bibl>
+                                    Govindaji Pañcoli in Bezug nimmt, der auch in P. von der
+                                    Śaunakīyā Caturādhyāyikā (<bibl><ref target="#deshpande_1997"
+                                            >Deshpande 1997</ref>, <biblScope unit="page" n="8"
+                                            >8</biblScope></bibl>), in C. (saṃvat 1738) und J.
+                                    (saṃvat 1706) von <bibl><ref target="#SPP">SPP</ref></bibl>
+                                    (vol. intr., 3 und 13) genannt ist.</note></l>
+                        </lg>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

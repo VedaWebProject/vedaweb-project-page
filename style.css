@@ -1,0 +1,261 @@
+@font-face {
+    font-family:'SourceSans';
+    font-style: normal;
+    font-weight: 300;
+    src:
+      local('SourceSansPro-Light'),
+      url('fonts/SourceSansPro-Light.ttf') format('truetype');
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a, a:any-link {
+    color: #931111;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+:target { scroll-margin-top: 5.5rem; }
+
+body {
+    font-size: 20px;
+    font-family: 'SourceSans', sans-serif;
+    background-color: #fff;
+    color: #222;
+}
+
+ul, ol {
+    list-style-position: outside;
+    list-style-type: circle;
+    padding-left: 1em;
+}
+
+dt {
+    font-weight: bold;
+    margin-top: .5rem;
+}
+
+.site-frame {
+    width: 1200px;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #fff;
+    background-image: url('images/annotations.png');
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem 1rem;
+}
+
+header img {
+    height: 100px;
+    margin: 0 1rem;
+}
+
+header > div {
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 1rem;
+}
+
+#brand {
+    font-size: 200%;
+    color: #931111;
+}
+
+#navigation {
+    position: -webkit-sticky;
+    position: sticky;
+    top: -1px;
+    box-shadow: 0 -16px 20px 0px #fff;
+}
+
+#navigation nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    background-color: #fff;
+    padding: 1rem;
+    color: #ccc;
+    border-bottom: 1px solid #e4e4e4;
+}
+
+#navigation.stuck nav {
+    background-image: url(images/logo.png);
+    background-repeat: no-repeat;
+    background-size: auto 60%;
+    background-position: 2% 50%;
+}
+
+@media only screen and (max-width: 800px) {
+    #navigation {
+        position: unset;
+        top: unset;
+    }
+
+    #navigation nav {
+        justify-content: space-around;
+    }
+
+    #navigation nav > div {
+        width: 40%;
+    }
+
+    #navigation.stuck nav {
+        background: #fff;
+        border-bottom: none;
+    }
+}
+
+#navigation nav div {
+    background-color: #fff;
+    padding: .75rem 1.5rem .75rem 0;
+}
+
+main {
+    padding: 0 1rem;
+    line-height: 2rem;
+}
+
+main p {
+    margin-bottom: .5rem;
+}
+
+footer {
+    padding: 2rem 1rem;
+    margin-top: 6rem;
+    font-size: 90%;
+}
+
+footer p {
+    margin-top: 2rem;
+    text-align: center;
+    opacity: 0.4;
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 80%;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.flex > img {
+    width: 512px;
+    max-width: 90%;
+    -webkit-box-shadow: 0 0 3px 0 rgba(0,0,0,.2);
+    -moz-box-shadow: 0 0 3px 0 rgba(0,0,0,.2);
+    box-shadow: 0 0 3px 0 rgba(0,0,0,.2);
+}
+
+div.button {
+    display: inline-block;
+    padding: 1rem;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #931111;
+    cursor: pointer;
+    margin: 2rem;
+    transition: .2s;
+}
+
+div.button:hover {
+    background-color: #a41515;
+}
+
+a.button-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+#footer-logo-park {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#footer-logo-park > a {
+    color: #222;
+    opacity: 0.6;
+    filter: grayscale(1);
+    transition: .2s;
+    text-align: center;
+    word-wrap: break-word;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+}
+
+#footer-logo-park > a:hover {
+    opacity: 1;
+    filter: grayscale(0);
+    text-decoration: none;
+}
+
+#footer-logo-park img {
+    height: 40px;
+    margin-bottom: 1rem;
+}
+
+hr {
+    margin: 4rem auto;
+    width: 50%;
+    max-width: 320px;
+    border: none;
+    border-top: 1px solid #e4e4e4;
+    height: 5px;
+}
+
+h1 {
+    font-size: 200%;
+    font-weight: normal;
+    color: #666;
+    margin-top: 2.5rem;
+    margin-bottom: 2rem;
+
+    padding-top: 2.2rem;
+}
+
+h2 {
+    font-size: 140%;
+    font-weight: normal;
+    color: #444;
+    margin-top: 2rem;
+    margin-bottom: 1.25rem;
+}
+
+h3 {
+    font-size: 110%;
+    font-weight: normal;
+    margin-top: 1.2rem;
+}
+
+blockquote {
+    font-size: 90%;
+    color: #777;
+}

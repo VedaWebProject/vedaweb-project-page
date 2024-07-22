@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_corpus.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kanda_16">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Atharvavedasaṃhitā der Śaunakaśākhā - Kāṇḍa 16</title>
+                <author>Jeong-Soo Kim</author>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Thiago Venturott</distributor>
+                <pubPlace>Würzburg</pubPlace>
+                <date when="2022">2022</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>TEI-Datei erstellt auf Basis von <name key="urn:nbn:de:bvb:20-opus-277038"
+                        >Atharvavedasaṃhitā der Śaunakaśākhā: Eine neue Edition unter besonderer
+                        Berücksichtigung der Parallelstellen der Paippalādasaṃhitā</name>.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <!--Die xml:ids der vorliegenden Datei sind in der Datei "AVS_Einleitung_Abkuerzungen_Literatur" aufgelöst.-->
+    <text>
+        <body>
+            <div xml:id="b16" type="book">
+                <head>Kāṇḍa 16</head>
+                <div xml:id="b16_h001" n="16.1" type="hymn">
+                    <div xml:id="b16_h001_01" n="16.1.1" type="stanza">
+                        <head><note xml:id="anm3145" n="3145" anchored="true" place="bottom">Vor dem
+                                Beginn des 16. Kāṇḍa hat <ref target="#N">N.</ref> „om̐ prājāpatyasya pūrvasya paramasya
+                                punaḥ śr̥ṇu || ||“, siehe dazu <persName ref="#CRLanman"
+                                    >Lanman</persName>s Kommentar in <bibl><ref target="#WhL"><hi
+                                            rend="smallcaps">Wh/L</hi></ref></bibl> (S. 792f.) und
+                                den Kommentar zu 15.18.5 (<bibl><ref target="#RH">RH</ref></bibl>s
+                                Qu</note> = P 18.44.1ab</head>
+                        <lg>
+                            <l xml:id="b16_h001_01_a">átisr̥ṣṭo apā́ṃ vr̥ṣabhó</l>
+                            <l xml:id="b16_h001_01_b">’tisr̥ṣṭā agnáyo divyā́ḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_02" n="16.1.2" type="stanza">
+                        <head>= P 18.44.1c</head>
+                        <lg>
+                            <l xml:id="b16_h001_02_a">ruján pariruján mr̥ṇán pramr̥ṇán ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_03" n="16.1.3" type="stanza">
+                        <head>= P 10.9.1bc = P 18.44.1de</head>
+                        <lg>
+                            <l xml:id="b16_h001_03_a">mrokó manohā́ khanó nirdāhá</l>
+                            <l xml:id="b16_h001_03_b">ātmadū́ṣis tanūdū́ṣiḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_04" n="16.1.4" type="stanza">
+                        <head>= Ś 10.5.15b = P 16.129.1b = P 16.129.9b ~ Ś 10.5.21b = P 16.129.10b =
+                            P 18.44.2a</head>
+                        <lg>
+                            <l xml:id="b16_h001_04_a">idáṃ tám áti sr̥jāmi táṃ mā́bhyávanikṣi ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_05" n="16.1.5" type="stanza">
+                        <head>a = Ś 10.5.15c ~ P 16.129.1c ~ Ś 10.5.21c ~ P 16.129.10c = P 18.44.2b
+                            • b = Ś 2.11.3b = Ś 2.19.1b = Ś 2.23.5b = Ś 3.27.1e = Ś 3.27.6e = Ś
+                            7.81.5a = Ś 10.5.15d = Ś 10.5.21d = Ś 10.5.25d = Ś 10.5.35d = P 1.57.3b
+                            = P 1.63.4c = P 2.48.1b = P 2.48.5b = P 3.24.1e = P 3.24.6e = P 3.25.14c
+                            = P 16.131.1d = P 16.131.2d = P 16.131.3d = P 16.131.11d = P 16.132.1c =
+                            P 18.44.2c = P 20.29.6e = P 20.43.6c = P 20.44.3d = P 20.44.4d = P
+                            20.44.5d = P 20.44.6d ~ P 16.52.2c</head>
+                        <lg>
+                            <l xml:id="b16_h001_05_a">téna tám abhyátisr̥jāmo</l>
+                            <l xml:id="b16_h001_05_b">yò3<note xml:id="anm3146" n="3146"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. So auch <ref target="#N">N.</ref>
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> verweist auf
+                                    C., D., K. und V., die yò1 lesen.</note> ’smā́n dvéṣṭi yáṃ vayáṃ
+                                dviṣmáḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_06" n="16.1.6" type="stanza">
+                        <head>a = P 18.44.3a • b a ~ P 18.44.3b</head>
+                        <lg>
+                            <l xml:id="b16_h001_06_a">apā́m ágram asi</l>
+                            <l xml:id="b16_h001_06_b">samudráṃ vo ’bhyávasr̥jāmi ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_07" n="16.1.7" type="stanza">
+                        <head>a ~ P 18.44.3c • b a = P 18.44.3d</head>
+                        <lg>
+                            <l xml:id="b16_h001_07_a">yò3<note xml:id="anm3147" n="3147"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. So auch <ref target="#N">N.</ref>
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> verweist auf
+                                    C., D., K. und V., die yò1 lesen.</note> ’psv à1gnír áti táṃ
+                                sr̥jāmi</l>
+                            <l xml:id="b16_h001_07_b">mrokáṃ khaníṃ tanūdū́ṣim ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_08" n="16.1.8" type="stanza">
+                        <head>= P 18.44.3ef</head>
+                        <lg>
+                            <l xml:id="b16_h001_08_a">yó va āpo ’gnír āvivéśa sá eṣá</l>
+                            <l xml:id="b16_h001_08_b">yád vo ghoráṃ tád etát ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_09" n="16.1.9" type="stanza">
+                        <head>~ P 18.44.4a</head>
+                        <lg>
+                            <l xml:id="b16_h001_09_a">índrasya va indriyéṇābhí ṣiñcet ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_10" n="16.1.10" type="stanza">
+                        <head>= Ś 10.5.24a = P 16.130.2a = P 18.44.4b = P 20.54.10a</head>
+                        <lg>
+                            <l xml:id="b16_h001_10_a">ariprā́ ā́po ápa riprám asmát ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_11" n="16.1.11" type="stanza">
+                        <head>~ P 18.44.4cd</head>
+                        <lg>
+                            <l xml:id="b16_h001_11_a">prā́smád éno vahantu</l>
+                            <l xml:id="b16_h001_11_b">prá duṣvápnyaṃ vahantu ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_12" n="16.1.12" type="stanza">
+                        <head>= Ś 1.33.4ab = P 1.25.4ab = P 1.33.4ab = P 14.1.5ab = P
+                            18.44.5ab</head>
+                        <lg>
+                            <l xml:id="b16_h001_12_a">śivéna mā cákṣuṣā paśyatāpaḥ</l>
+                            <l xml:id="b16_h001_12_b">śiváyā tanvópa spr̥śata tvácaṃ me ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h001_13" n="16.1.13" type="stanza">
+                        <head>= P 1.33.4cd = P 18.44.5cd • a [~ <ref target="#TS">TS</ref> 5.6.1.2c etc.]</head>
+                        <lg>
+                            <l xml:id="b16_h001_13_a">śivā́n agnī́n apsuṣádo havāmahe</l>
+                            <l xml:id="b16_h001_13_b">máyi kṣatráṃ várca ā́ dhatta devīḥ || 1
+                                    ||<note xml:id="anm3148" n="3148" anchored="true" place="bottom"
+                                    ><ref target="#N">N.</ref> endet mit „... devīḥ || 13 || paryāya || 1 || avasānar̥cā ||
+                                    13 || trayodaśādyaṃ vijānīyāt || 5 ||“, vgl. damit <bibl><ref
+                                            target="#RH">RH</ref></bibl>: „[Bo.] p. 1. av.r̥. 13 .
+                                    trayodaśādyaṃ vinānīyāt“. <persName ref="#CRLanman"
+                                        >Lanman</persName> berichtet in <bibl><ref target="#WhL"><hi
+                                            rend="smallcaps">Wh/L</hi></ref> <biblScope unit="page" n="793">(S. 793)</biblScope></bibl>,
+                                    daß „the Old Anukr.“ 16.1 als „trayodaçā ”dyaṁ [(i. 1)]
+                                    vijānīyād“ bezeichnet und es mit 13 Paryāyāvasānarcas
+                                    versieht.</note></l>
+                        </lg>
+                    </div>
+                </div>
+                <div xml:id="b16_h002" n="16.2" type="hymn">
+                    <div xml:id="b16_h002_01" n="16.2.1" type="stanza">
+                        <head>= P 18.45.1ab</head>
+                        <lg>
+                            <l xml:id="b16_h002_01_a">nír durarmaṇyà<note xml:id="anm3149" n="3149"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl>,
+                                            <bibl><ref target="#WhI"><hi rend="smallcaps"
+                                            >WhI</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. Alle Mss. einschließlich <ref target="#N">N.</ref> lesen so.
+                                        <persName ref="#WDWhitney">Whitney</persName> schlägt in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl> jedoch vor, nach <bibl><ref
+                                            target="#PW">PW</ref> (<biblScope unit="volume" n="3"
+                                            >III</biblScope>
+                                        <biblScope unit="page" n="668">668</biblScope>)</bibl>
+                                    durarmaṇyàs zu *duradmanyàs zu ändern und übersetzt das Wort mit
+                                    „Out of evil-eating (?)“. Wie aber <persName ref="#WDWhitney"
+                                        >Whitney</persName> selbst erwähnt, ist durarmaṇī́- (wohl
+                                    Abstraktum, siehe <bibl><ref target="#AiGrII2">AiGr II 2</ref>,
+                                            <biblScope unit="page" n="406">406</biblScope></bibl>)
+                                    in Prāt. 4.11.16 (= Caturādhyāyikā 4.1.18) und mehrfach in <ref target="#KausS">KauśS</ref>
+                                    belegt. Das hier als Ablativ aufzufassende (<bibl><ref
+                                            target="#AiGrII2">AiGr II 2</ref>
+                                        <biblScope unit="page" n="406">ebd.</biblScope></bibl>
+                                    jedoch: „unklar“) Wort durarmaṇyàs erscheint auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle so, so daß die
+                                    Wortform durarmaṇyàs nicht zu bezweifeln ist. Das mit diesem
+                                    verwandte Wort durarman- (vgl. auch an-armán- in AVŚ 7.7.1b) ist
+                                    in <ref target="#AVP">AVP</ref> 20.16.8a belegt: agnir mā pātu
+                                    prathamo durarmaṇaḥ „Agni soll als erster mich vor der schweren
+                                    Verletzung in Schutz nehmen“ (zu °arman- siehe <bibl><ref
+                                            target="#hajnal_1999">Hajnal 1999</ref>, <biblScope
+                                            unit="page" from="97" to="98">97f.</biblScope></bibl>).
+                                    Ferner ist ūrjā́ als Nominativ (<persName ref="#WDWhitney"
+                                        >Whitney</persName> ebd.: „The word ūrjā́ in our text might
+                                    also be nominative ...“) aufzufassen.</note> ūrjā́</l>
+                            <l xml:id="b16_h002_01_b">mádhumatī vā́k ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h002_02" n="16.2.2" type="stanza">
+                        <head>= P 18.45.1cd • b ~ Ś 3.20.10a = P 3.34.11a</head>
+                        <lg>
+                            <l xml:id="b16_h002_02_a">mádhumatī stha</l>
+                            <l xml:id="b16_h002_02_b">mádhumatīṃ vā́cam udeyam ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h002_03" n="16.2.3" type="stanza">
+                        <head>~ P 18.45.1fg</head>
+                        <lg>
+                            <l xml:id="b16_h002_03_a">úpahūto me gopā́</l>
+                            <l xml:id="b16_h002_03_b">úpahūto gopītháḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h002_04" n="16.2.4" type="stanza">
+                        <head>a = P 18.45.1h [~ <ref target="#ApSS">ĀpŚS</ref> 6.20.2] • b = P 18.45.1i</head>
+                        <lg>
+                            <l xml:id="b16_h002_04_a">suśrútau kárṇau bhadraśrútau kárṇau</l>
+                            <l xml:id="b16_h002_04_b">bhadráṃ ślókaṃ śrūyāsam ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h002_05" n="16.2.5" type="stanza">
+                        <head>a ~ P 18.45.1j • b = P 18.45.1k [~ <ref target="#ApSS">ĀpŚS</ref> 6.20.2]</head>
+                        <lg>
+                            <l xml:id="b16_h002_05_a">súśrutiś ca mópaśrutiś ca mā́ hāsiṣṭāṃ</l>
+                            <l xml:id="b16_h002_05_b">sáuparṇaṃ cákṣur ájasraṃ jyótiḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h002_06" n="16.2.6" type="stanza">
+                        <head>a = P 18.45.1l • b a ~ P 18.45.1m</head>
+                        <lg>
+                            <l xml:id="b16_h002_06_a">ŕ̥ṣīṇāṃ prastarò<note xml:id="anm3150"
+                                    n="3150" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> verweist auf R., S<hi rend="sup"
+                                        >m</hi>. und Cs., die prataró lesen.</note> ’si</l>
+                            <l xml:id="b16_h002_06_b">námo ’stu dáivāya prastarā́ya || 2 ||<note
+                                    xml:id="anm3151" n="3151" anchored="true" place="bottom"><ref target="#N">N.</ref>
+                                    endet mit „... prastarā́ya || 6 || paryāya || 1 || avasānar̥cā
+                                    || 6 ||“, siehe auch <bibl><ref target="#RH">RH</ref></bibl>:
+                                    „[Bo.] p. 1. av.r̥. 6.“. <persName ref="#CRLanman"
+                                        >Lanman</persName> berichtet in <bibl><ref target="#WhL"><hi
+                                                rend="smallcaps">Wh/L</hi></ref></bibl> (S. 793),
+                                    daß „the Old Anukr.“ beschreibt, daß 16.2 aus 6
+                                    Paryāyāvasānarcas besteht.</note></l>
+                        </lg>
+                    </div>
+                </div>
+                <div xml:id="b16_h003" n="16.3" type="hymn">
+                    <div xml:id="b16_h003_01" n="16.3.1" type="stanza">
+                        <head>~ P 18.45.1n</head>
+                        <lg>
+                            <l xml:id="b16_h003_01_a">mūrdhā́háṃ rayīṇā́ṃ mūrdhā́ samānā́nāṃ
+                                bhūyāsam ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h003_02" n="16.3.2" type="stanza">
+                        <head>a = P 18.46.1a • b = P 18.46.1e</head>
+                        <lg>
+                            <l xml:id="b16_h003_02_a">rujáś ca mā venáś ca<note xml:id="anm3152"
+                                    n="3152" anchored="true" place="bottom">In <ref target="#N">N.</ref> ist rujáś ca mā
+                                    venáś ca nicht geschrieben.</note> mā́ hāsiṣṭāṃ</l>
+                            <l xml:id="b16_h003_02_b">mūrdhā́ ca mā vídharmā ca mā́ hāsiṣṭām ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h003_03" n="16.3.3" type="stanza">
+                        <head>a = P 18.46.1b • b = P 18.46.1f</head>
+                        <lg>
+                            <l xml:id="b16_h003_03_a">urváś<note xml:id="anm3153" n="3153"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. Alle Mss.
+                                    einschließlich N lesen so. Auch die <ref target="#AVP"
+                                    >AVP</ref>-Parallelstelle hat urvaś. <persName ref="#WDWhitney"
+                                        >Whitney</persName> schreibt in <bibl><ref target="#WhL"><hi
+                                                rend="smallcaps">Wh/L</hi></ref></bibl> aber: „The
+                                    translation [„the kettle“] follows the suggestion of the Pet.
+                                    Lexx. [„wohl irrig für ukha“], to emend urvá at the beginning to
+                                    ukhá“. Da aber die <ref target="#AVP">AVP</ref>-Stelle ebenfalls
+                                    urva- hat, scheint urváś authentisch zu sein. Bei dem Hapax
+                                    Legomenon urvá- handelt es sich wohl um eine Art Gefäß, vgl.
+                                    damit ūrvá- „Behälter“. Analog zu diesem ūrvá- (vgl. Präs.
+                                    ūrṇóti) ist urvá- vielleicht als eine adhoc auf die Aniṭ-Wurzel
+                                    var „umschließen, bedecken“ (vgl. Präs. vr̥ṇóti) bezogene Form
+                                    zu erklären.</note> ca mā camasáś ca mā́ hāsiṣṭāṃ</l>
+                            <l xml:id="b16_h003_03_b">dhartā́ ca mā dharúṇaś ca mā́ hāsiṣṭām ||<note
+                                    xml:id="anm3154" n="3154" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. <ref target="#N">N.</ref> endet mit „... dharúṇaś ca || 3
+                                    ||“. <bibl><ref target="#SPP">SPP</ref></bibl>s Pp.-Text endet
+                                    auch mit ... dharúṇaḥ | ca || 3 ||. Die <ref target="#AVP"
+                                        >AVP</ref>-Parallelstelle hat den vollständigen
+                                Text.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h003_04" n="16.3.4" type="stanza">
+                        <head>= P 18.46.1cd</head>
+                        <lg>
+                            <l xml:id="b16_h003_04_a">vimokáś ca mārdrápaviś ca mā́ hāsiṣṭām</l>
+                            <l xml:id="b16_h003_04_b">ārdrádānuś ca mā<note xml:id="anm3155"
+                                    n="3155" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> verweist auf R. und S<hi rend="sup"
+                                        >m</hi>., die mā́ lesen.</note> mātaríśvā ca mā́ hāsiṣṭām
+                                ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h003_05" n="16.3.5" type="stanza">
+                        <head>~ P 18.46.2a</head>
+                        <lg>
+                            <l xml:id="b16_h003_05_a">bŕ̥haspátir ma ātmā́ nr̥máṇā nā́ma hŕ̥dyaḥ
+                                ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h003_06" n="16.3.6" type="stanza">
+                        <head>= P 18.46.2cd</head>
+                        <lg>
+                            <l xml:id="b16_h003_06_a">asaṃtāpáṃ me hŕ̥dayam</l>
+                            <l xml:id="b16_h003_06_b">urvī́ gávyūtiḥ samudró asmi vídharmaṇā || 3
+                                    ||<note xml:id="anm3156" n="3156" anchored="true" place="bottom"
+                                    ><ref target="#N">N.</ref> endet mit „... vídharmaṇā || 6 || paryāya 1 || avasānar̥cā
+                                    || 6 || dvau ṣaṭkau || ||“, siehe auch <bibl><ref target="#RH"
+                                            >RH</ref></bibl>: „[Bo.] p. 1. av.r̥. 6. dvau ṣaṭkau |“.
+                                        <persName ref="#CRLanman">Lanman</persName> berichtet in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                                >Wh/L</hi></ref> <biblScope unit="page" n="793">(S. 793)</biblScope></bibl>, daß „the Old Anukr.“
+                                    beschreibt, daß 16.2 und 3 als „dvāu ṣaṭkāu“ bezeichnet werden
+                                    und jeweils aus 6 Paryāyāvasānarcas bestehen.</note></l>
+                        </lg>
+                    </div>
+                </div>
+                <div xml:id="b16_h004" n="16.4" type="hymn">
+                    <div xml:id="b16_h004_01" n="16.4.1" type="stanza">
+                        <head>= P 18.46.2ef</head>
+                        <lg>
+                            <l xml:id="b16_h004_01_a">nā́bhir aháṃ rayīṇā́ṃ</l>
+                            <l xml:id="b16_h004_01_b">nā́bhiḥ samānā́nāṃ bhūyāsam ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h004_02" n="16.4.2" type="stanza">
+                        <head>a = P 18.47.1a • b ~ P 18.47.1b</head>
+                        <lg>
+                            <l xml:id="b16_h004_02_a">svāsád asi sūṣā́<note xml:id="anm3157"
+                                    n="3157" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> verweist darauf, daß K. pūṣā́ und E.
+                                    ṣūṣā́ lesen.</note></l>
+                            <l xml:id="b16_h004_02_b">amŕ̥to mártyeṣv ā́ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h004_03" n="16.4.3" type="stanza">
+                        <head>a ~ Ś 7.53.4a ~ P 20.11.7a [~ <ref target="#TS">TS</ref> 3.3.1.1] • b = Ś 7.53.4b ~ P 18.47.1d
+                            ~ P 20.11.7c</head>
+                        <lg>
+                            <l xml:id="b16_h004_03_a">mā́ mā́ṃ<note xml:id="anm3158" n="3158"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. <persName
+                                        ref="#WDWhitney">Whitney</persName> schreibt in <bibl><ref
+                                            target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl>: „Most of our mss. (all except D.R.)
+                                    leave mā́m unaccented“. Auch <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> verweist auf A., B<hi rend="sup">h</hi>.,
+                                    C., E., R., Cs., P., J. und Cp., die māṃ lesen. <ref target="#N">N.</ref> liest
+                                    ebenfalls māṃ.</note> prāṇó hāsīn</l>
+                            <l xml:id="b16_h004_03_b">mó apānò<note xml:id="anm3159" n="3159"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> („We with D K
+                                        S<hi rend="sup">m</hi> V Dc Cs V Dc Cs V Dc Cs“). <persName
+                                        ref="#WDWhitney">Whitney</persName> macht in <bibl><ref
+                                            target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl> darauf aufmerksam, daß nur R. apānò
+                                    hat (der Rest: apānó). <bibl><ref target="#SPP">SPP</ref></bibl>
+                                    verweist auf A., B<hi rend="sup">h</hi>., C., E., K<hi
+                                        rend="sup">m</hi>. und R., die apānó lesen. Auch <ref target="#N">N.</ref> liest
+                                    apānó.</note> ’vahā́ya párā gāt ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h004_04" n="16.4.4" type="stanza">
+                        <head>= P 18.47.1efgh</head>
+                        <lg>
+                            <l xml:id="b16_h004_04_a">sū́ryo mā́hnaḥ pātv</l>
+                            <l xml:id="b16_h004_04_b">agníḥ pr̥thivyā́ vāyúr antárikṣād</l>
+                            <l xml:id="b16_h004_04_c">yamó manuṣyèbhyaḥ</l>
+                            <l xml:id="b16_h004_04_d">sárasvatī pā́rthivebhyaḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h004_05" n="16.4.5" type="stanza">
+                        <head>= P 18.47.1ij • a = P 16.149.12e</head>
+                        <lg>
+                            <l xml:id="b16_h004_05_a">prā́ṇāpānau mā́ mā hāsiṣṭaṃ</l>
+                            <l xml:id="b16_h004_05_b">mā́ jáne prá meṣi ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h004_06" n="16.4.6" type="stanza">
+                        <head>a = P 18.47.1k • b ~ P 18.47.1l</head>
+                        <lg>
+                            <l xml:id="b16_h004_06_a">svasty à1dyóṣáso<note xml:id="anm3160"
+                                    n="3160" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> verweist darauf, daß A., B<hi rend="sup"
+                                        >h</hi>., C., D., E., R., S<hi rend="sup">m</hi>., Dc. und
+                                    Cs. à3° und K., K<hi rend="sup">m</hi>. und V. āv3° lesen (B.?).
+                                    Anschließend gibt <bibl><ref target="#SPP">SPP</ref></bibl> an,
+                                    daß A., D., E., R. und Cs. °dyo° („which means ǀ1̰“:
+                                    unverständlich), C. und K. „1“ (unverständlich) und P. und Cp.
+                                    adya | lesen. <ref target="#N">N.</ref> liest àdyoṣáso (ohne Kampa).</note> doṣásaś
+                                ca</l>
+                            <l xml:id="b16_h004_06_b">sárva āpaḥ sárvagaṇo aśīya ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h004_07" n="16.4.7" type="stanza">
+                        <head>l</head>
+                        <lg>
+                            <l xml:id="b16_h004_07_a">śákvarī<note xml:id="anm3161" n="3161"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. So auch <ref target="#N">N.</ref>
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> verweist auf
+                                    B. und B<hi rend="sup">h</hi>., die śákvarīḥ lesen.</note> stha
+                                paśávo mópa stheṣur<note xml:id="anm3162" n="3162" anchored="true"
+                                    place="bottom">So mit <bibl><ref target="#RWh"><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. So auch <ref target="#N">N.</ref>
+                                        <persName ref="#WDWhitney">Whitney</persName> gibt in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl> an, daß alle Mss. außer T.s.m.
+                                    und R. (beidemale stheṣur) stheṣu lesen. Unter <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Mss. lesen P., P<hi
+                                        rend="sup">2</hi>. . und J. stheṣu (nur Cp.
+                                stheṣuḥ).</note></l>
+                            <l xml:id="b16_h004_07_b">mitrā́váruṇau me prāṇāpānā́v</l>
+                            <l xml:id="b16_h004_07_c">agnír me dákṣaṃ dadhātu || 4 || a 1 ||<note
+                                    xml:id="anm3163" n="3163" anchored="true" place="bottom"><ref target="#N">N.</ref>
+                                    endet mit „... dadhātu || 7 || paryāya || 1 || avasānar̥cā || 7
+                                    || saptaka paraḥ || anuvāke paryāya || 4 || avasānar̥cā || 32 ||
+                                    prājāpatyo ha catuṣkaḥ || ||“, vgl. damit <bibl><ref
+                                            target="#RH">RH</ref></bibl>: „[Bo.] pa. 1. av.r̥. 7
+                                    saptakaḥ paraḥ | an.pary. 4. av.r̥. 32 | prājāpatyo ha catuṣkaḥ
+                                    |“. <persName ref="#CRLanman">Lanman</persName> gibt in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl> an: „Here ends the first
+                                    anuvāka, with 4 paryāyas and 32 avasānarcas ... The piece here
+                                    quoted from the Old Anukr. is prājāpatyo ha catuṣkaḥ ...“.
+                                        <persName ref="#CRLanman">Lanman</persName> berichtet in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl> (S. 793), daß „the Old Anukr.“
+                                    beschreibt, daß 16.4 als „saptakaḥ paraḥ“ bezeichnet wird und
+                                    aus 7 Paryāyāvasānarcas besteht.</note></l>
+                        </lg>
+                    </div>
+                </div>
+                <div xml:id="b16_h005" n="16.5" type="hymn">
+                    <div xml:id="b16_h005_01" n="16.5.1" type="stanza">
+                        <head>(16.5.1-3)<note xml:id="anm3164" n="3164" anchored="true"
+                                place="bottom">Die Strophengliederung dieser Kāṇḍikā erfolgt gemäß
+                                        <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl>, zur Begründung siehe <persName
+                                    ref="#WDWhitney">Whitney</persName>s und <persName
+                                    ref="#CRLanman">Lanman</persName>s Kommentare zu 16.5 und S.
+                                793f. in <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl>, vgl. damit die Gliederung von AVŚ
+                                6.46.2, wo <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> auf die gleiche Gliederung verweist. Man
+                                lese <bibl><ref target="#SPP">SPP</ref></bibl>s Ausgabe I, 22f. <ref target="#N">N.</ref>
+                                hat ... káraṇaḥ || ... mr̥tyúr asi || 1 || ... pāhi || 2 ||, was
+                                weder der Gliederung von <bibl><ref target="#RWh"><hi
+                                            rend="smallcaps">R/Wh</hi></ref></bibl> noch der von
+                                        <bibl><ref target="#SPP">SPP</ref></bibl> entspricht.
+                                        <bibl><ref target="#SPP">SPP</ref></bibl>s Gliederung wird
+                                in Klammern aufgezeigt.</note> a = Ś 6.46.2a = Ś 16.5.2a = Ś 16.5.3a
+                            = Ś 16.5.4a = Ś 16.5.5a = Ś 16.5.6a = P 17.24.1a = P 17.24.2a = P
+                            17.24.3a = P 17.24.4a = P 17.24.5a = P 17.24.6a = P 17.24.10a = P
+                            18.49.1a = P 18.49.7a • b = P 17.24.2b = P 18.49.2b • c = Ś 6.46.2c = Ś
+                            16.5.2c = Ś 16.5.6c = Ś 19.57.3b = P 3.30.3b = P 17.24.1d = P 17.24.2d =
+                            P 17.24.3d = P 17.24.4d = P 17.24.5d = P 17.24.6d = P 17.24.10d = P
+                            18.49.1c = P 18.49.7c • d = Ś 6.46.2d = Ś 16.5.6d • e = Ś 6.46.2e = Ś
+                            16.5.6e = Ś 19.57.4b ~ P 3.30.4b = P 17.24.1e = P 17.24.10e = P
+                            19.46.12b • f = Ś 6.46.2f = Ś 16.5.6f = P 18.49.1d = P 18.49.7d</head>
+                        <lg>
+                            <l xml:id="b16_h005_01_a">vidmá te svapna janítraṃ</l>
+                            <l xml:id="b16_h005_01_b">grā́hyāḥ putrò ’si</l>
+                            <l xml:id="b16_h005_01_c">yamásya káraṇaḥ |</l>
+                            <l xml:id="b16_h005_01_d">ántako ’si mr̥tyúr asi |</l>
+                            <l xml:id="b16_h005_01_e">táṃ tvā svapna táthā sáṃ vidma</l>
+                            <l xml:id="b16_h005_01_f">sá naḥ svapna duṣvápnyāt<note xml:id="anm3165"
+                                    n="3165" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> verweist auf A., B., B<hi rend="sup"
+                                        >h</hi>., E., R., Dc. und Cs., die duḥṣvá° lesen.</note>
+                                pāhi ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h005_02" n="16.5.2" type="stanza">
+                        <head>(16.5.4) a = Ś 6.46.2a = Ś 16.5.1a = Ś 16.5.3a = Ś 16.5.4a = Ś 16.5.5a
+                            = Ś 16.5.6a = P 17.24.1a = P 17.24.2a = P 17.24.3a = P 17.24.4a = P
+                            17.24.5a = P 17.24.6a = P 17.24.10a = P 18.49.1a = P 18.49.7a • b = P
+                            18.49.3b • c = Ś 6.46.2c = Ś 16.5.1c = Ś 16.5.6c = Ś 19.57.3b = P
+                            3.30.3b = P 17.24.1d = P 17.24.2d = P 17.24.3d = P 17.24.4d = P 17.24.5d
+                            = P 17.24.6d = P 17.24.10d = P 18.49.1c = P 18.49.7c</head>
+                        <lg>
+                            <l xml:id="b16_h005_02_a">vidmá te svapna janítraṃ</l>
+                            <l xml:id="b16_h005_02_b">nírr̥tyāḥ putrò ’si</l>
+                            <l xml:id="b16_h005_02_c">yamásya káraṇaḥ |</l>
+                            <l xml:id="b16_h005_02_d">°°° |</l>
+                            <l xml:id="b16_h005_02_e">°°° ||<note xml:id="anm3166" n="3166"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl>.
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> weicht von
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> nur in „|| 4 ||“ ab (Pp.-Text:
+                                    janítram | níḥ°r̥tyāḥ | putráḥ || 4 ||). <ref target="#N">N.</ref> hat für die Strophe
+                                    2 janítraṃ nírr̥tyāḥ putráḥ || 3 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h005_03" n="16.5.3" type="stanza">
+                        <head>(16.5.5) a = Ś 6.46.2a = Ś 16.5.1a = Ś 16.5.2a = Ś 16.5.4a = Ś 16.5.5a
+                            = Ś 16.5.6a = P 17.24.1a = P 17.24.2a = P 17.24.3a = P 17.24.4a = P
+                            17.24.5a = P 17.24.6a = P 17.24.10a = P 18.49.1a = P 18.49.7a • b = P
+                            18.49.4b</head>
+                        <lg>
+                            <l xml:id="b16_h005_03_a">vidmá te svapna janítram</l>
+                            <l xml:id="b16_h005_03_b">ábhūtyāḥ putrò ’si</l>
+                            <l xml:id="b16_h005_03_c">°°° |</l>
+                            <l xml:id="b16_h005_03_d">°°° |</l>
+                            <l xml:id="b16_h005_03_e">°°° ||<note xml:id="anm3167" n="3167"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl>.
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> weicht von
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> nur in „|| 5 ||“ ab (Pp.-Text:
+                                    janítram | ábhūtyāḥ | putráḥ || 5 ||). <ref target="#N">N.</ref> hat für die Strophe 3
+                                    janítram ábhūtyāḥ putráḥ || 4 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h005_04" n="16.5.4" type="stanza">
+                        <head>(16.5.6) a = Ś 6.46.2a = Ś 16.5.1a = Ś 16.5.2a = Ś 16.5.3a = Ś 16.5.5a
+                            = Ś 16.5.6a = P 17.24.1a = P 17.24.2a = P 17.24.3a = P 17.24.4a = P
+                            17.24.5a = P 17.24.6a = P 17.24.10a = P 18.49.1a = P 18.49.7a • b = P
+                            18.49.5b</head>
+                        <lg>
+                            <l xml:id="b16_h005_04_a">vidmá te svapna janítraṃ</l>
+                            <l xml:id="b16_h005_04_b">nírbhūtyāḥ putrò ’si</l>
+                            <l xml:id="b16_h005_04_c">°°° |</l>
+                            <l xml:id="b16_h005_04_d">°°° |</l>
+                            <l xml:id="b16_h005_04_e">°°° ||<note xml:id="anm3168" n="3168"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl>.
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> weicht von
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> nur in „|| 6 ||“ ab (Pp.-Text:
+                                    janítram | níḥ°bhūtyāḥ | putráḥ || 6 ||). <ref target="#N">N.</ref> hat für die Strophe
+                                    4 janítram nírbhūtyāḥ putráḥ || 5 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h005_05" n="16.5.5" type="stanza">
+                        <head>(16.5.7) a = Ś 6.46.2a = Ś 16.5.1a = Ś 16.5.2a = Ś 16.5.3a = Ś 16.5.4a
+                            = Ś 16.5.6a = P 17.24.1a = P 17.24.2a = P 17.24.3a = P 17.24.4a = P
+                            17.24.5a = P 17.24.6a = P 17.24.10a = P 18.49.1a = P 18.49.7a • b = P
+                            18.49.6b</head>
+                        <lg>
+                            <l xml:id="b16_h005_05_a">vidmá te svapna janítraṃ</l>
+                            <l xml:id="b16_h005_05_b">párābhūtyāḥ putrò ’si</l>
+                            <l xml:id="b16_h005_05_c">°°° |</l>
+                            <l xml:id="b16_h005_05_d">°°° |</l>
+                            <l xml:id="b16_h005_05_e">°°° ||<note xml:id="anm3169" n="3169"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl>.
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> weicht von
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> nur in „|| 7 ||“ ab (Pp.-Text:
+                                    janítram | párā°bhūtyāḥ | putráḥ || 7 ||). <ref target="#N">N.</ref> hat für die
+                                    Strophe 5 janítram párābhūtyāḥ putráḥ || 6 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h005_06" n="16.5.6" type="stanza">
+                        <head>(16.5.8-10) a = Ś 6.46.2a = Ś 16.5.1a = Ś 16.5.2a = Ś 16.5.3a = Ś
+                            16.5.4a = Ś 16.5.5a = P 17.24.1a = P 17.24.2a = P 17.24.3a = P 17.24.4a
+                            = P 17.24.5a = P 17.24.6a = P 17.24.10a = P 18.49.1a = P 18.49.7a • b =
+                            Ś 6.46.2b = P 18.49.7b • c = Ś 6.46.2c = Ś 16.5.1c = Ś 16.5.2c = Ś
+                            19.57.3b = P 3.30.3b = P 17.24.1d = P 17.24.2d = P 17.24.3d = P 17.24.4d
+                            = P 17.24.5d = P 17.24.6d = P 17.24.10d = P 18.49.1c = P 18.49.7c • d =
+                            Ś 6.46.2d = Ś 16.5.1d • e = Ś 6.46.2e = Ś 16.5.1e = Ś 19.57.4b ~ P
+                            3.30.4b = P 17.24.1e = P 17.24.10e = P 19.46.12b • f = Ś 6.46.2f = Ś
+                            16.5.1f = P 18.49.1d = P 18.49.7d</head>
+                        <lg>
+                            <l xml:id="b16_h005_06_a">vidmá te svapna janítraṃ</l>
+                            <l xml:id="b16_h005_06_b">devajāmīnā́ṃ putrò ’si</l>
+                            <l xml:id="b16_h005_06_c">yamásya káraṇaḥ |</l>
+                            <l xml:id="b16_h005_06_d">ántako ’si mr̥tyúr asi |</l>
+                            <l xml:id="b16_h005_06_e">táṃ tvā svapna táthā sáṃ vidma</l>
+                            <l xml:id="b16_h005_06_f">sá naḥ svapna duṣvápnyāt<note xml:id="anm3170"
+                                    n="3170" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> („We with A C K K A C K K<hi
+                                        rend="sup">m</hi> V“). So auch <ref target="#N">N.</ref> <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> verweist auf B., B<hi rend="sup"
+                                        >h</hi>., E., D., R., S<hi rend="sup">m</hi>. und Dc., die
+                                    duḥṣvá° lesen.</note> pāhi || 5 ||<note xml:id="anm3171"
+                                    n="3171" anchored="true" place="bottom"><ref target="#N">N.</ref> hat ... mr̥tyúr asi
+                                    || ... pāhi || 6 || (sic) paryāya || 1 || avasānar̥cā || 4 ||
+                                    gaṇāvasānar̥cā || 6 || ubhayaṃparyāya || 6 || avasānar̥cā || 6
+                                    || ādyaṃ daśakam || ||, vgl. damit <bibl><ref target="#RH"
+                                            >RH</ref></bibl>: „[Bo.] p. 1. av.ṛ. 54 | gaṇâvasânaṛ. 6
+                                    | ubhaye paryāya | 6 | av.ṛ. 10. ādyadadaśakapa (sic) |“.
+                                        <persName ref="#CRLanman">Lanman</persName> schreibt in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl> (S. 798): „Both the Anukramaṇīs
+                                    reckon the paryāya as of 10 avasānas“. <ref target="#N">N.</ref> hat jedoch 6 Avasānas,
+                                    was der Gliederung von <bibl><ref target="#RWh"><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl> entspricht
+                                    (siehe <persName ref="#CRLanman">Lanman</persName>s Kommentar in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl> auf S. 793). <persName
+                                        ref="#CRLanman">Lanman</persName> berichtet in <bibl><ref
+                                            target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl> (S. 793), daß „the Old Anukr.“
+                                    beschreibt, daß 16.5 als „ādyaṁ daçakaṁ“ bezeichnet wird und aus
+                                    2 Gaṇas und 4 Paryāyāvasānarcas besteht.</note></l>
+                        </lg>
+                    </div>
+                </div>
+                <div xml:id="b16_h006" n="16.6" type="hymn">
+                    <div xml:id="b16_h006_01" n="16.6.1" type="stanza">
+                        <head>= P 18.50.1ab • a [~ <ref target="#RV">RV</ref> 8.47.18a etc.]</head>
+                        <lg>
+                            <l xml:id="b16_h006_01_a">ájaiṣmādyā́sanāmādyá-</l>
+                            <l xml:id="b16_h006_01_b">-ábhūmā́nāgaso vayám ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h006_02" n="16.6.2" type="stanza">
+                        <head>a = 8.50.1c • b [= <ref target="#RV">RV</ref> 8.47.18d] ~ P
+                            18.50.1d</head>
+                        <lg>
+                            <l xml:id="b16_h006_02_a">úṣo yásmād duṣvápnyād<note xml:id="anm3172"
+                                    n="3172" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> verweist auf B., B<hi rend="sup"
+                                        >h</hi>., E., D., R., S<hi rend="sup">m</hi>. und Dc., die
+                                    duḥṣvá° lesen.</note></l>
+                            <l xml:id="b16_h006_02_b">ábhaiṣmā́pa tád uchatu ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h006_03" n="16.6.3" type="stanza">
+                        <head>= P 18.50.1ef</head>
+                        <lg>
+                            <l xml:id="b16_h006_03_a">dviṣaté tát párā vaha</l>
+                            <l xml:id="b16_h006_03_b">śápate tát párā vaha ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h006_04" n="16.6.4" type="stanza">
+                        <head>= P 18.50.1gh • a = P 15.21.1c = P 20.18.5a</head>
+                        <lg>
+                            <l xml:id="b16_h006_04_a">yáṃ dviṣmó yáś⁎<note xml:id="anm3173" n="3173"
+                                    anchored="true" place="bottom">So bereits emendiert in
+                                            <bibl><ref target="#RWh1"><hi rend="sup">1</hi><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl>, siehe
+                                            <bibl><ref target="#WhI"><hi rend="smallcaps"
+                                            >WhI</hi></ref></bibl> („yás ... mss. yát“) und
+                                        <persName ref="#WDWhitney">Whitney</persName>s Kommentar in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl>. Alle Mss. von <persName
+                                        ref="#WDWhitney">Whitney</persName>/<persName ref="#RRoth"
+                                        >Roth</persName> und <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> sowie <ref target="#N">N.</ref> lesen yác, das aber ungrammatisch
+                                    ist. Die <ref target="#AVP">AVP</ref>-Parallelstellen haben alle
+                                    yaś.</note> ca no dvéṣṭi</l>
+                            <l xml:id="b16_h006_04_b">tásmā enad<note xml:id="anm3174" n="3174"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. So auch <ref target="#N">N.</ref>
+                                    Bo. (<bibl><ref target="#RH">RH</ref></bibl>) und P<hi
+                                        rend="sup">2</hi>. . (<bibl><ref target="#SPP"
+                                        >SPP</ref></bibl>) lesen enam |.</note> gamayāmaḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h006_05" n="16.6.5" type="stanza">
+                        <head>= P 18.50.1ij</head>
+                        <lg>
+                            <l xml:id="b16_h006_05_a">uṣā́ devī́ vācā́ saṃvidānā́</l>
+                            <l xml:id="b16_h006_05_b">vā́g devy ù1ṣásā<note xml:id="anm3175"
+                                    n="3175" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. <persName ref="#WDWhitney"
+                                        >Whitney</persName> gibt in <bibl><ref target="#WhL"><hi
+                                                rend="smallcaps">Wh/L</hi></ref></bibl> an, daß
+                                    „part of the mss.“ devy ūvṣásā lesen. <ref target="#N">N.</ref> vermerkt keine Mss.-
+                                    Varianten. <bibl><ref target="#SPP">SPP</ref></bibl> verweist
+                                    darauf, daß D. devy ūv1°, A., B., B<hi rend="sup">h</hi>., R.,
+                                    Dc. und Cs. devy ù3° und C., E., K., K<hi rend="sup">m</hi> .
+                                    und V. devy ūv3° lesen (d.h. kein Ms. von <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Mss. liest devy ù1°?).
+                                    <ref target="#N">N.</ref> liest devy ūv°. Zur Schreibung ū nach Cy in den Mss. siehe
+                                    z.B. den Kommentar zu 8.4.18a.</note> saṃvidānā́ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h006_06" n="16.6.6" type="stanza">
+                        <head>= P 18.50.1kl</head>
+                        <lg>
+                            <l xml:id="b16_h006_06_a">uṣáspátir vācáspátinā saṃvidānó</l>
+                            <l xml:id="b16_h006_06_b">vācáspátir uṣáspátinā saṃvidānáḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h006_07" n="16.6.7" type="stanza">
+                        <head>a = P 18.50.1m • b ~ P 18.50.1n</head>
+                        <lg>
+                            <l xml:id="b16_h006_07_a">tè3<note xml:id="anm3176" n="3176"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl> verweist auf B<hi
+                                        rend="sup">h</hi>. und V., die tè1 lesen. <ref target="#N">N.</ref> hat tè (ohne
+                                    Kampa).</note> ’múṣmai párā vahantv</l>
+                            <l xml:id="b16_h006_07_b">arā́yān durṇā́mnaḥ sadā́nvāḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h006_08" n="16.6.8" type="stanza">
+                        <head>= P 18.50.1o</head>
+                        <lg>
+                            <l xml:id="b16_h006_08_a">kumbhī́kā dūṣī́kāḥ pī́yakān ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h006_09" n="16.6.9" type="stanza">
+                        <head>= P 18.50.1o</head>
+                        <lg>
+                            <l xml:id="b16_h006_09_a">jāgradduṣvapnyáṃ<note xml:id="anm3177"
+                                    n="3177" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. So auch <ref target="#N">N.</ref> <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> verweist auf B., E., R. und Dc., die
+                                    °duḥṣva° lesen. Die gleiche Handschriftenlage gilt auch für das
+                                    unmittelbar folgende °duṣvapnyám.</note> svapneduṣvapnyám ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h006_10" n="16.6.10" type="stanza">
+                        <head>= P 18.50.1q</head>
+                        <lg>
+                            <l xml:id="b16_h006_10_a">ánāgamiṣyato várān ávitteḥ saṃkalpā́n ámucyā
+                                druháḥ pā́śān ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h006_11" n="16.6.11" type="stanza">
+                        <head>a ~ P 18.60.1r • b = P 18.60.1s</head>
+                        <lg>
+                            <l xml:id="b16_h006_11_a">tád amúṣmā agne devā́ḥ párā vahantu</l>
+                            <l xml:id="b16_h006_11_b">vádhrir yáthā́sad vithuró⁎<note
+                                    xml:id="anm3178" n="3178" anchored="true" place="bottom">So
+                                    bereits emendiert in <bibl><ref target="#RWh1"><hi rend="sup"
+                                                >1</hi><hi rend="smallcaps">R/Wh</hi></ref></bibl>,
+                                    siehe auch <bibl><ref target="#WhI"><hi rend="smallcaps"
+                                                >WhI</hi></ref></bibl>: „vithurás ... (mss.
+                                    víthuras)“. <bibl><ref target="#SPP">SPP</ref></bibl> hat
+                                    víthuro, das alle Mss. einschließlich <ref target="#N">N.</ref> lesen.</note> ná sādhúḥ
+                                || 6 ||<note xml:id="anm3179" n="3179" anchored="true"
+                                    place="bottom"><ref target="#N">N.</ref> endet mit „... sādhúḥ || 11 || paryāya || 1 ||
+                                    avasānar̥cā || 11 || hy ekādaśakam || ||“, vgl. damit <bibl><ref
+                                            target="#RH">RH</ref></bibl>: „[Bo.] p. 1. av.ṛ. 11
+                                    hyaukādaśakam |“. <persName ref="#CRLanman">Lanman</persName>
+                                    berichtet in <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                                >Wh/L</hi></ref></bibl>, daß „the Old Anukr.“
+                                    beschreibt, daß 16.6 als „hy (?) ekādaçakaṁ“ bezeichnet wird und
+                                    aus 11 Paryāyāvasānarcas besteht.</note></l>
+                        </lg>
+                    </div>
+                </div>
+                <div xml:id="b16_h007" n="16.7" type="hymn">
+                    <div xml:id="b16_h007_01" n="16.7.1" type="stanza">
+                        <head>~ P 17.24.1i-n</head>
+                        <lg>
+                            <l xml:id="b16_h007_01_a">ténainaṃ vidhyāmy</l>
+                            <l xml:id="b16_h007_01_b">ábhūtyainaṃ vidhyāmi</l>
+                            <l xml:id="b16_h007_01_c">nírbhūtyainaṃ vidhyāmi</l>
+                            <l xml:id="b16_h007_01_d">párābhūtyainaṃ vidhyāmi</l>
+                            <l xml:id="b16_h007_01_e">grā́hyainaṃ vidhyāmi</l>
+                            <l xml:id="b16_h007_01_f">támasainaṃ vidhyāmi ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_02" n="16.7.2" type="stanza">
+                        <head>~ P 17.24.1p</head>
+                        <lg>
+                            <l xml:id="b16_h007_02_a">devā́nām enaṃ ghoráiḥ krūráiḥ praiṣáir
+                                abhipréṣyāmi ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_03" n="16.7.3" type="stanza">
+                        <head>~ P 17.24.1q</head>
+                        <lg>
+                            <l xml:id="b16_h007_03_a">vaiśvānarásyainaṃ dámṣṭrayor ápi dadhāmi
+                                ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_04" n="16.7.4" type="stanza">
+                        <head>= P 18.51.1a</head>
+                        <lg>
+                            <l xml:id="b16_h007_04_a">evā́nevā́va sā́ garat ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_05" n="16.7.5" type="stanza">
+                        <head><note xml:id="anm3180" n="3180" anchored="true" place="bottom">In <ref target="#N">N.</ref>
+                                fehlt das Blatt Nr. 572 (ab 16.7.5a bis 16.8.1f).</note> nur
+                                hier<note xml:id="anm3181" n="3181" anchored="true" place="bottom"
+                                >Vgl. damit <ref target="#AVP">AVP</ref> 18.51.1bc: asau māṃ dveṣṭi
+                                sa ātmānaṃ dveṣṭu yo māṃ dveṣṭi sa ātmānaṃ dveṣṭu |.</note></head>
+                        <lg>
+                            <l xml:id="b16_h007_05_a">yò3<note xml:id="anm3182" n="3182"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl> verweist auf C. und V.,
+                                    die yò1 lesen.</note> ’smā́n dvéṣṭi tám ātmā́ dveṣṭu</l>
+                            <l xml:id="b16_h007_05_b">yáṃ vayáṃ dviṣmáḥ sá ātmā́naṃ dveṣṭu ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_06" n="16.7.6" type="stanza">
+                        <head>= P 18.51.1d</head>
+                        <lg>
+                            <l xml:id="b16_h007_06_a">nír dviṣántaṃ divó níḥ pr̥thivyā́ nír
+                                antárikṣād bhajāma ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_07" n="16.7.7" type="stanza">
+                        <head>= P 18.51.1e</head>
+                        <lg>
+                            <l xml:id="b16_h007_07_a">súyāmaṃś cākṣuṣa<note xml:id="anm3183"
+                                    n="3183" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. <persName ref="#WDWhitney"
+                                        >Whitney</persName> gibt in <bibl><ref target="#WhL"><hi
+                                                rend="smallcaps">Wh/L</hi></ref></bibl> an, daß P.
+                                    und M. cākṣuṣaḥ haben. Auch <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> verweist auf B<hi rend="sup">h</hi>. und S
+                                    m ., die cākṣuṣaḥ lesen.</note> ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_08" n="16.7.8" type="stanza">
+                        <head>~ P 17.25.1b<note xml:id="anm3184" n="3184" anchored="true"
+                                place="bottom">Vgl. damit <ref target="#AVP">AVP</ref> 18.51.1f:
+                                idam aham amum āmuṣyāyaṇam amuṣyāḥ putraṃ duṣvapnyād ava daye* | (so
+                                        <bibl><ref target="#Bhatt2011"><hi rend="smallcaps"
+                                            >Bhatt</hi> 2011</ref></bibl>).</note></head>
+                        <lg>
+                            <l xml:id="b16_h007_08_a">idám ahám āmuṣyāyaṇè3 ’múṣyāḥ putré
+                                    duṣvápnyaṃ<note xml:id="anm3185" n="3185" anchored="true"
+                                    place="bottom">So mit <bibl><ref target="#RWh"><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> („We with A
+                                        B<hi rend="sup">h</hi> D K S<hi rend="sup">m</hi> V“).
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> verweist auf
+                                    B., C., E., K<hi rend="sup">m</hi>., R., Dc. und Cs., die
+                                    duḥṣvá° lesen.</note> mr̥je ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_09" n="16.7.9" type="stanza">
+                        <head>= P 18.51.1gh</head>
+                        <lg>
+                            <l xml:id="b16_h007_09_a">yád adó-ado abhyágachaṃ⁎<note xml:id="anm3186"
+                                    n="3186" anchored="true" place="bottom">So bereits emendiert in
+                                            <bibl><ref target="#RWh1"><hi rend="sup">1</hi><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl>, siehe
+                                            <bibl><ref target="#WhI"><hi rend="smallcaps"
+                                            >WhI</hi></ref></bibl>: „abhyágacham ... (mss. -chan)“
+                                    und <persName ref="#WDWhitney">Whitney</persName>s Kommentar in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl>: „The translation [„I went at on
+                                    ...“] follows our emendation, abhyágacham; all the mss. read
+                                    -chan (one or two in pada perhaps -chat)“. <bibl><ref
+                                            target="#RH">RH</ref></bibl> vermerkt „[Bo.]
+                                    abhy°ágachat |“. <bibl><ref target="#SPP">SPP</ref></bibl> (ohne
+                                    Mss.-Variante) hat abhyágacchan (<bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>: „The emendation to °ccham made by RW
+                                    does not appear to be quite necessary, though at first sight
+                                    desirable“, siehe jedoch 16.7.11a: ... abhigáchāmi). Die <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle hat das korrekte
+                                    abhyagachaṃ.</note></l>
+                            <l xml:id="b16_h007_09_b">yád doṣā́ yát pū́rvāṃ rā́trim ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_10" n="16.7.10" type="stanza">
+                        <head>~ P 18.51.1i</head>
+                        <lg>
+                            <l xml:id="b16_h007_10_a">yáj jā́grad yát suptó yád dívā<note
+                                    xml:id="anm3187" n="3187" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> verweist auf B., B<hi rend="sup">h</hi>.
+                                    und E., die yáddivā lesen.</note> yán náktam ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_11" n="16.7.11" type="stanza">
+                        <head>a ~ P 18.51.1j • b = P 18.51.1k</head>
+                        <lg>
+                            <l xml:id="b16_h007_11_a">yád áhar-ahar abhigáchāmi</l>
+                            <l xml:id="b16_h007_11_b">tásmād enam áva daye<note xml:id="anm3188"
+                                    n="3188" anchored="true" place="bottom">So mit <bibl><ref
+                                            target="#RWh"><hi rend="smallcaps"
+                                        >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl> verweist auf R., S<hi rend="sup">m</hi>.
+                                    und Cs., die dayet lesen.</note> ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_12" n="16.7.12" type="stanza">
+                        <head>= P 18.51.1lmn</head>
+                        <lg>
+                            <l xml:id="b16_h007_12_a">táṃ jahi</l>
+                            <l xml:id="b16_h007_12_b">téna mandasva</l>
+                            <l xml:id="b16_h007_12_c">tásya pr̥ṣṭī́r<note xml:id="anm3189" n="3189"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl> verweist auf C., K., K<hi
+                                        rend="sup">m</hi>., V., Cs., P. J. und Cp., die die
+                                    pr̥ṣṭhī́r lesen.</note> ápi śr̥ṇīhi ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h007_13" n="16.7.13" type="stanza">
+                        <head>= Ś 10.5.25ef • a = Ś 10.5.35e ~ P 18.51.1r • b = Ś 10.5.35f = P
+                            18.51.1o</head>
+                        <lg>
+                            <l xml:id="b16_h007_13_a">sá mā́ jīvīt</l>
+                            <l xml:id="b16_h007_13_b">táṃ prāṇó jahātu || 7 ||<note xml:id="anm3190"
+                                    n="3190" anchored="true" place="bottom"><persName
+                                        ref="#CRLanman">Lanman</persName> berichtet in <bibl><ref
+                                            target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl> (S. 793), daß „the Old Anukr.“
+                                    beschreibt, daß 16.7 als „tasmāc ca paraṁ dvyadhikaṁ vihitam“
+                                    bezeichnet wird und aus 13 Paryāyāvasānarcas besteht, vgl. damit
+                                            <bibl><ref target="#RH">RH</ref></bibl>: „[Bo.] p. 1.
+                                    av.ṛ. 13. tasmāt svaraṃ dvyadhikaṃ vihitam |“. <ref target="#N">N.</ref>
+                                fehlt.</note></l>
+                        </lg>
+                    </div>
+                </div>
+                <div xml:id="b16_h008" n="16.8" type="hymn">
+                    <div xml:id="b16_h008_01" n="16.8.1" type="stanza">
+                        <head>(16.8.1-4)<note xml:id="anm3191" n="3191" anchored="true"
+                                place="bottom">Die Gliederung der Strophen erfolgt gemäß <bibl><ref
+                                        target="#RWh"><hi rend="smallcaps">R/Wh</hi></ref></bibl>,
+                                siehe <persName ref="#CRLanman">Lanman</persName>s Kommentare in
+                                        <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl> (S. 794 und 801). <ref target="#N">N.</ref> hat die
+                                Nummerierung von <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl>. Auch die <ref target="#AVP"
+                                    >AVP</ref>-Parallelstellen haben diese Nummerierung. <bibl><ref
+                                        target="#SPP">SPP</ref></bibl>s Gliederung wird in Klammern
+                                aufgezeigt.</note> a = Ś 10.5.36a = Ś 16.8.27a = Ś 16.9.1a = P
+                            18.52.1a = P 18.52.29a = P 18.53.1a • b = Ś 16.8.27b = P 18.52.1b = P
+                            18.52.29b • c = Ś 16.8.27c = P 18.52.1c = P 18.52.29c • d = Ś 16.8.27d =
+                            P 18.52.1d = P 18.52.29d • e = Ś 16.8.27e ~ P 18.52.1e = P 18.52.29e • f
+                            = Ś 16.8.27f ~ P 18.52.1f = P 18.52.29f • g = Ś 16.8.27g • h = P
+                            18.52.1h ~ Ś 16.8.2h = P 18.52.2h ~ Ś 16.8.4h = P 18.52.4h ~ Ś 16.8.5h =
+                            P 18.52.5h ~ Ś 16.8.6h = P 18.52.6h ~ Ś 16.8.7h = P 18.52.25h ~ Ś
+                            16.8.8h = P 18.52.26h ~ Ś 16.8.15h = P 18.52.17h ~ Ś 16.8.16h = P
+                            18.52.18h ~ Ś 16.8.19h ~ Ś 16.8.23h ~ Ś 16.8.25h • i = Ś 16.8.27i ~ Ś
+                            10.5.36d ~ P 10.10.4d ~ P 18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P
+                            18.52.27h • j = Ś 10.5.36e = Ś 16.8.27j</head>
+                        <lg>
+                            <l xml:id="b16_h008_01_a"><hi rend="sup">a</hi>jitám asmā́kam údbhinnam
+                                asmā́kam</l>
+                            <l xml:id="b16_h008_01_b"><hi rend="sup">b</hi>r̥tám asmā́kaṃ téjo
+                                ’smā́kaṃ</l>
+                            <l xml:id="b16_h008_01_c"><hi rend="sup">c</hi>bráhmāsmā́kaṃ svàr
+                                asmā́kaṃ</l>
+                            <l xml:id="b16_h008_01_d"><hi rend="sup">d</hi>yajñò3 ’smā́kaṃ paśávo
+                                ’smā́kaṃ</l>
+                            <l xml:id="b16_h008_01_e"><hi rend="sup">e</hi>prajā́ asmā́kaṃ vīrā́
+                                asmā́kam |</l>
+                            <l xml:id="b16_h008_01_f"><hi rend="sup">f</hi>tásmād amúṃ nír<note
+                                    xml:id="anm3192" n="3192" anchored="true" place="bottom">Ab hier
+                                    beginnt das Blatt 574 in <ref target="#N">N.</ref></note> bhajāmo</l>
+                            <l xml:id="b16_h008_01_g"><hi rend="sup">g</hi>’múm āmuṣyāyaṇám<note
+                                    xml:id="anm3193" n="3193" anchored="true" place="bottom"
+                                            ><bibl><ref target="#SPP">SPP</ref></bibl> hat
+                                    āmuṣyāyaṇam (Druckfehler).</note> amúṣyāḥ putrám asáu yáḥ |<note
+                                    xml:id="anm3194" n="3194" anchored="true" place="bottom">Vgl.
+                                    damit <ref target="#AVP">AVP</ref> 18.52.1g (= <ref
+                                        target="#AVP">AVP</ref> 18.52.29g): amum āmuṣyāṇam amuṣyāḥ
+                                    putram |.</note></l>
+                            <l xml:id="b16_h008_01_h"><hi rend="sup">h</hi>sá grā́hyāḥ pā́śān mā́
+                                moci |</l>
+                            <l xml:id="b16_h008_01_i"><hi rend="sup">i</hi>tásyedáṃ várcas téjaḥ
+                                prāṇám ā́yur ní veṣṭayāmi-</l>
+                            <l xml:id="b16_h008_01_j"><hi rend="sup">j</hi>-idám enam adharā́ñcaṃ
+                                pādayāmi ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_02" n="16.8.2" type="stanza">
+                        <head>(16.8.5) • h = P 18.52.2h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.4h = P
+                            18.52.4h ~ Ś 16.8.5h = P 18.52.5h ~ Ś 16.8.6h = P 18.52.6h ~ Ś 16.8.7h =
+                            P 18.52.25h ~ Ś 16.8.8h = P 18.52.26h ~ Ś 16.8.15h = P 18.52.17h ~ Ś
+                            16.8.16h = P 18.52.18h ~ Ś 16.8.19h ~ Ś 16.8.23h ~ Ś 16.8.25h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_02_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_02_b">°°° |</l>
+                            <l xml:id="b16_h008_02_c">sá nírr̥tyāḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_02_d">°°° ||<note xml:id="anm3195" n="3195"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (beide: ° |
+                                    statt °°° |; <bibl><ref target="#SPP">SPP</ref></bibl> am Ende:
+                                    || 5 ||). <ref target="#N">N.</ref> hat sá nírr̥tyāḥ pā́śāt || 2 ||. So auch an der
+                                        <ref target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    níḥ°r̥tyāḥ | pā́śāt || 5 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_03" n="16.8.3" type="stanza">
+                        <head>(16.8.6) • h = P 18.52.3h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P
+                            18.52.2h ~ Ś 16.8.9h = P 18.52.7h ~ Ś 16.8.10h = P 18.52.8h ~ Ś 16.8.11h
+                            = P 18.52.9h ~ Ś 16.8.12h = P 18.52.10h ~ Ś 16.8.13h = P 18.52.11h ~ Ś
+                            16.8.14h = P 18.52.12h ~ Ś 16.8.17h = P 18.52.13h ~ Ś 16.8.18h = P
+                            18.52.14h ~ Ś 16.8.20h ~ Ś 16.8.21h = P 18.52.22h ~ Ś 16.8.24h = P
+                            18.52.24h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_03_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_03_b">°°° |</l>
+                            <l xml:id="b16_h008_03_c">só ’bhūtyāḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_03_d">°°° ||<note xml:id="anm3196" n="3196"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 6 ||). <ref target="#N">N.</ref> hat
+                                    sóbhūtyāḥ pā́śāt || 3 ||. So auch an der <ref target="#AVP"
+                                        >AVP</ref>-Parallelstelle. <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>s Pp.-Text hat sáḥ | ábhūtyāḥ | pā́śāt
+                                    || 6 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_04" n="16.8.4" type="stanza">
+                        <head>(16.8.7) • h = P 18.52.4h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P
+                            18.52.2h ~ Ś 16.8.5h = P 18.52.5h ~ Ś 16.8.6h = P 18.52.6h ~ Ś 16.8.7h =
+                            P 18.52.25h ~ Ś 16.8.8h = P 18.52.26h ~ Ś 16.8.15h = P 18.52.17h ~ Ś
+                            16.8.16h = P 18.52.18h ~ Ś 16.8.19h ~ Ś 16.8.23h ~ Ś 16.8.25h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_04_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_04_b">°°° |</l>
+                            <l xml:id="b16_h008_04_c">sá nírbhūtyāḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_04_d">°°° ||<note xml:id="anm3197" n="3197"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 7 ||). <ref target="#N">N.</ref> hat
+                                    sá nírbhūtyāḥ pā́śāt || 4 ||. So auch an der <ref target="#AVP"
+                                        >AVP</ref>-Parallelstelle. <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>s Pp.-Text hat sáḥ | níḥ°bhūtyāḥ |
+                                    pā́śāt || 7 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_05" n="16.8.5" type="stanza">
+                        <head>(16.8.8) • h = P 18.52.5h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P
+                            18.52.2h ~ Ś 16.8.4h = P 18.52.4h ~ Ś 16.8.6h = P 18.52.6h ~ Ś 16.8.7h =
+                            P 18.52.25h ~ Ś 16.8.8h = P 18.52.26h ~ Ś 16.8.15h = P 18.52.17h ~ Ś
+                            16.8.16h = P 18.52.18h ~ Ś 16.8.19h ~ Ś 16.8.23h ~ Ś 16.8.25h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_05_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_05_b">°°° |</l>
+                            <l xml:id="b16_h008_05_c">sá párābhūtyāḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_05_d">°°° ||<note xml:id="anm3198" n="3198"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 8 ||). <ref target="#N">N.</ref> hat
+                                    sá párābhūtyāḥ pā́śāt || 5 ||. So auch an der <ref target="#AVP"
+                                        >AVP</ref>-Parallelstelle. <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>s Pp.-Text hat sáḥ | párā°bhūtyāḥ |
+                                    pā́śāt || 8 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_06" n="16.8.6" type="stanza">
+                        <head>(16.8.9) • h = P 18.52.6h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P
+                            18.52.2h ~ Ś 16.8.4h = P 18.52.4h ~ Ś 16.8.5h = P 18.52.5h ~ Ś 16.8.7h =
+                            P 18.52.25h ~ Ś 16.8.8h = P 18.52.26h ~ Ś 16.8.15h = P 18.52.17h ~ Ś
+                            16.8.16h = P 18.52.18h ~ Ś 16.8.19h ~ Ś 16.8.23h ~ Ś 16.8.25h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_06_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_06_b">°°° |</l>
+                            <l xml:id="b16_h008_06_c">sá devajāmīnā́ṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_06_d">°°° ||<note xml:id="anm3199" n="3199"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 9 ||). <ref target="#N">N.</ref> hat
+                                    sá devajāmīnā́ṃ pā́śāt || 6 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    deva°jāmīnā́m | pā́śāt || 9 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_07" n="16.8.7" type="stanza">
+                        <head>(16.8.10) • h = P 16.52.25h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P
+                            18.52.2h ~ Ś 16.8.4h = P 18.52.4h ~ Ś 16.8.5h = P 18.52.5h ~ Ś 16.8.6h =
+                            P 18.52.6h ~ Ś 16.8.8h = P 18.52.26h ~ Ś 16.8.15h = P 18.52.17h ~ Ś
+                            16.8.16h = P 18.52.18h ~ Ś 16.8.19h ~ Ś 16.8.23h ~ Ś 16.8.25h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_07_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_07_b">°°° |</l>
+                            <l xml:id="b16_h008_07_c">sá bŕ̥haspáteḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_07_d">°°° ||<note xml:id="anm3200" n="3200"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 10 ||). <ref target="#N">N.</ref>
+                                    hat sá bŕ̥haspáteḥ pā́śāt || 7 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    bŕ̥haspáteḥ | pā́śāt || 10 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_08" n="16.8.8" type="stanza">
+                        <head>(16.8.11) • h = P 18.52.26h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P
+                            18.52.2h ~ Ś 16.8.4h = P 18.52.4h ~ Ś 16.8.5h = P 18.52.5h ~ Ś 16.8.6h =
+                            P 18.52.6h ~ Ś 16.8.7h = P 16.52.25h ~ Ś 16.8.15h = P 18.52.17h ~ Ś
+                            16.8.16h = P 18.52.18h ~ Ś 16.8.19h ~ Ś 16.8.23h ~ Ś 16.8.25h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_08_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_08_b">°°° |</l>
+                            <l xml:id="b16_h008_08_c">sá prajā́pateḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_08_d">°°° ||<note xml:id="anm3201" n="3201"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 11 ||). <ref target="#N">N.</ref>
+                                    hat sá prajā́pateḥ pā́śāt || 8 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    prajā́°pateḥ | pā́śāt || 11 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_09" n="16.8.9" type="stanza">
+                        <head>(16.8.12) • h = P 18.52.7h ~ Ś 16.8.3h = P 18.52.3h ~ Ś 16.8.10h = P
+                            18.52.8h ~ Ś 16.8.11h = P 18.52.9h ~ Ś 16.8.12h = P 18.52.10h ~ Ś
+                            16.8.13h = P 18.52.11h ~ Ś 16.8.14h = P 18.52.12h ~ Ś 16.8.17h = P
+                            18.52.13h ~ Ś 16.8.18h = P 18.52.14h ~ Ś 16.8.20h ~ Ś 16.8.21h = P
+                            18.52.22h ~ Ś 16.8.24h = P 18.52.24h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_09_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_09_b">°°° |</l>
+                            <l xml:id="b16_h008_09_c">sá ŕ̥ṣīṇāṃ<note xml:id="anm3202" n="3202"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. <persName
+                                        ref="#WDWhitney">Whitney</persName> weist in <bibl><ref
+                                            target="#WhL"><hi rend="smallcaps"
+                                        >Wh/L</hi></ref></bibl> darauf hin, daß nur D. ŕ̥ṣīṇām hat
+                                    (der Rest: r̥ṣīṇā́ṃ bzw. r̥ṣīṇā́m). <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> verweist darauf, daß Dc. r̥ṣīṇā́ṃ zu
+                                    [sá] rṣīṇā́ṃ ändert und Cs., P<hi rend="sup">2</hi>. und V.
+                                    ŕ̥ṣīṇāṃ bzw. ŕ̥ṣīṇām lesen (der Rest: r̥ṣīṇā́ṃ bzw. r̥ṣīṇā́m).
+                                    <ref target="#N">N.</ref> liest r̥ṣīṇā́ṃ.</note> pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_09_d">°°° ||<note xml:id="anm3203" n="3203"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 12 ||). <ref target="#N">N.</ref>
+                                    hat sá r̥ṣīṇā́ṃ pā́śāt || 9 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    r̥ṣīṇā́m | pā́śāt || 12 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_10" n="16.8.10" type="stanza">
+                        <head>(16.8.13) • h = P 18.52.8h ~ Ś 16.8.3h = P 18.52.3h ~ Ś 16.8.9h = P
+                            18.52.7h ~ Ś 16.8.11h = P 18.52.9h ~ Ś 16.8.12h = P 18.52.10h ~ Ś
+                            16.8.13h = P 18.52.11h ~ Ś 16.8.14h = P 18.52.12h ~ Ś 16.8.17h = P
+                            18.52.13h ~ Ś 16.8.18h = P 18.52.14h ~ Ś 16.8.20h ~ Ś 16.8.21h = P
+                            18.52.22h ~ Ś 16.8.24h = P 18.52.24h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_10_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_10_b">°°° |</l>
+                            <l xml:id="b16_h008_10_c">sá ārṣeyā́ṇāṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_10_d">°°° ||<note xml:id="anm3204" n="3204"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 13 ||). <ref target="#N">N.</ref>
+                                    hat sá ārṣeyā́ṇāṃ pā́śāt || 10 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    ārṣeyā́ṇām | pā́śāt || 13 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_11" n="16.8.11" type="stanza">
+                        <head>(16.8.14) • h = P 18.52.9h ~ Ś 16.8.3h = P 18.52.3h ~ Ś 16.8.9h = P
+                            18.52.7h ~ Ś 16.8.10h = P 18.52.8h ~ Ś 16.8.12h = P 18.52.10h ~ Ś
+                            16.8.13h = P 18.52.11h ~ Ś 16.8.14h = P 18.52.12h ~ Ś 16.8.17h = P
+                            18.52.13h ~ Ś 16.8.18h = P 18.52.14h ~ Ś 16.8.20h ~ Ś 16.8.21h = P
+                            18.52.22h ~ Ś 16.8.24h = P 18.52.24h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_11_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_11_b">°°° |</l>
+                            <l xml:id="b16_h008_11_c">só ’ṅgirasāṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_11_d">°°° ||<note xml:id="anm3205" n="3205"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 14 ||). <ref target="#N">N.</ref>
+                                    hat sóṅgirasāṃ pā́śāt || 11 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    áṅgirasām | pā́śāt || 14 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_12" n="16.8.12" type="stanza">
+                        <head>l</head>
+                        <lg>
+                            <l xml:id="b16_h008_12_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_12_b">°°° |</l>
+                            <l xml:id="b16_h008_12_c">sá āṅgirasā́nāṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_12_d">°°° ||<note xml:id="anm3206" n="3206"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 15 ||). <ref target="#N">N.</ref>
+                                    hat sa āṅgirasā́nāṃ pā́śāt || 12 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    āṅgirasā́nām | pā́śāt || 15 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_13" n="16.8.13" type="stanza">
+                        <head>(16.8.16) • h = P 18.52.11h ~ Ś 16.8.3h = P 18.52.3h ~ Ś 16.8.9h = P
+                            18.52.7h ~ Ś 16.8.10h = P 18.52.8h ~ Ś 16.8.11h = P 18.52.9h ~ Ś
+                            16.8.12h = P 18.52.10h ~ Ś 16.8.14h = P 18.52.12h ~ Ś 16.8.17h = P
+                            18.52.13h ~ Ś 16.8.18h = P 18.52.14h ~ Ś 16.8.20h ~ Ś 16.8.21h = P
+                            18.52.22h ~ Ś 16.8.24h = P 18.52.24h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_13_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_13_b">°°° |</l>
+                            <l xml:id="b16_h008_13_c">só ’tharvaṇāṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_13_d">°°° ||<note xml:id="anm3207" n="3207"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 16 ||). <ref target="#N">N.</ref>
+                                    hat sótharvaṇāṃ pā́śāt || 13 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    átharvaṇām | pā́śāt || 16 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_14" n="16.8.14" type="stanza">
+                        <head>(16.8.17) • h = P 18.52.12h ~ Ś 16.8.3h = P 18.52.3h ~ Ś 16.8.9h = P
+                            18.52.7h ~ Ś 16.8.10h = P 18.52.8h ~ Ś 16.8.11h = P 18.52.9h ~ Ś
+                            16.8.12h = P 18.52.10h ~ Ś 16.8.13h =18.52.11h ~ Ś 16.8.17h = P
+                            18.52.13h ~ Ś 16.8.18h = P 18.52.14h ~ Ś 16.8.20h ~ Ś 16.8.21h = P
+                            18.52.22h ~ Ś 16.8.24h = P 18.52.24h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_14_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_14_b">°°° |</l>
+                            <l xml:id="b16_h008_14_c">sá ātharvaṇā́nāṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_14_d">°°° ||<note xml:id="anm3208" n="3208"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 17 ||). <ref target="#N">N.</ref>
+                                    hat sa ātharvaṇā́nāṃ pā́śāt || 14 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    ātharvaṇā́nām | pā́śāt || 17 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_15" n="16.8.15" type="stanza">
+                        <head>(16.8.18) • h = P 18.52.17h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P
+                            18.52.2h ~ Ś 16.8.4h = P 18.52.4h ~ Ś 16.8.5h = P 18.52.5h ~ Ś 16.8.6h =
+                            P 18.52.6h ~ Ś 16.8.7h = P 16.52.25h ~ Ś 16.8.8h = P 16.52.26h ~ Ś
+                            16.8.16h = P 18.52.18h ~ Ś 16.8.19h ~ Ś 16.8.23h ~ Ś 16.8.25h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_15_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_15_b">°°° |</l>
+                            <l xml:id="b16_h008_15_c">sá vánaspátīnāṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_15_d">°°° ||<note xml:id="anm3209" n="3209"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 18 ||). <ref target="#N">N.</ref>
+                                    hat sá vánaspátīnāṃ pā́śāt || 15 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    vánaspátīnām | pā́śāt || 18</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_16" n="16.8.16" type="stanza">
+                        <head>(16.8.19) • h = P 18.52.18h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P
+                            18.52.2h ~ Ś 16.8.4h = P 18.52.4h ~ Ś 16.8.5h = P 18.52.5h ~ Ś 16.8.6h =
+                            P 18.52.6h ~ Ś 16.8.7h = P 16.52.25h ~ Ś 16.8.8h = P 16.52.26h ~ Ś
+                            16.8.15h = P 18.52.17h ~ Ś 16.8.19h ~ Ś 16.8.23h ~ Ś 16.8.25h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_16_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_16_b">°°° |</l>
+                            <l xml:id="b16_h008_16_c">sá vānaspatyā́nāṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_16_d">°°° ||<note xml:id="anm3210" n="3210"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 19 ||). <ref target="#N">N.</ref>
+                                    hat sá vānaspatyā́nāṃ pā́śāt || 16 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    vānaspátyā́nām | pā́ś</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_17" n="16.8.17" type="stanza">
+                        <head>(16.8.20) • h = P 18.52.13h ~ Ś 16.8.3h = P 18.52.3h ~ Ś 16.8.9h = P
+                            18.52.7h ~ Ś 16.8.10h = P 18.52.8h ~ Ś 16.8.11h = P 18.52.9h ~ Ś
+                            16.8.12h = P 18.52.10h ~ Ś 16.8.13h =18.52.11h ~ Ś 16.8.14h = P
+                            18.52.12h ~ Ś 16.8.18h = P 18.52.14h ~ Ś 16.8.20h ~ Ś 16.8.21h = P
+                            18.52.22h ~ Ś 16.8.24h = P 18.52.24h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_17_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_17_b">°°° |</l>
+                            <l xml:id="b16_h008_17_c">sá r̥tūnā́ṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_17_d">°°° ||<note xml:id="anm3211" n="3211"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 20 ||). <ref target="#N">N.</ref>
+                                    hat sá r̥tūnā́ṃ pā́śāt || 17 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    r̥tūnā́m | pā́śāt || 20 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_18" n="16.8.18" type="stanza">
+                        <head>(16.8.21) • h = P 18.52.14h ~ Ś 16.8.3h = P 18.52.3h ~ Ś 16.8.9h = P
+                            18.52.7h ~ Ś 16.8.10h = P 18.52.8h ~ Ś 16.8.11h = P 18.52.9h ~ Ś
+                            16.8.12h = P 18.52.10h ~ Ś 16.8.13h =18.52.11h ~ Ś 16.8.14h = P
+                            18.52.12h ~ Ś 16.8.17h = P 18.52.13h ~ Ś 16.8.20h ~ Ś 16.8.21h = P
+                            18.52.22h ~ Ś 16.8.24h = P 18.52.24h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_18_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_18_b">°°° |</l>
+                            <l xml:id="b16_h008_18_c">sá ārtavā́nāṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_18_d">°°° ||<note xml:id="anm3212" n="3212"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 21 ||). <ref target="#N">N.</ref>
+                                    hat sá ārtavā́nāṃ pā́śāt || 18 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    ārtavā́nām | pā́śāt || 21 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_19" n="16.8.19" type="stanza">
+                        <head>(16.8.22) • h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P 18.52.2h ~ Ś
+                            16.8.4h = P 18.52.4h ~ Ś 16.8.5h = P 18.52.5h ~ Ś 16.8.6h = P 18.52.6h ~
+                            Ś 16.8.7h = P 18.52.25h ~ Ś 16.8.8h = P 18.52.26h ~ Ś 16.8.15h = P
+                            18.52.17h ~ Ś 16.8.16h = P 18.52.18h ~ Ś 16.8.23h ~ Ś 16.8.25h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_19_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_19_b">°°° |</l>
+                            <l xml:id="b16_h008_19_c">sá mā́sānāṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_19_d">°°° ||<note xml:id="anm3213" n="3213"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 22 ||). <ref target="#N">N.</ref>
+                                    hat sá mā́sānāṃ pā́śāt || 19 ||. <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>s Pp.-Text hat sáḥ | mā́sānām | pā́śāt
+                                    || 22 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_20" n="16.8.20" type="stanza">
+                        <head>(16.8.23) • h ~ Ś 16.8.3h = P 18.52.3h ~ Ś 16.8.9h = P 18.52.7h ~ Ś
+                            16.8.10h = P 18.52.8h ~ Ś 16.8.11h = P 18.52.9h ~ Ś 16.8.12h = P
+                            18.52.10h ~ Ś 16.8.13h =18.52.11h ~ Ś 16.8.14h = P 18.52.12h ~ Ś
+                            16.8.17h = P 18.52.13h ~ Ś 16.8.18h = P 18.52.14h ~ Ś 16.8.21h = P
+                            18.52.22h ~ Ś 16.8.24h = P 18.52.24h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_20_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_20_b">°°° |</l>
+                            <l xml:id="b16_h008_20_c">sò ’rdhamāsā́nāṃ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_20_d">°°° ||<note xml:id="anm3214" n="3214"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 23 ||). <ref target="#N">N.</ref>
+                                    hat sòrdhamāsā́nāṃ pā́śāt || 20 ||. <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>s Pp.-Text hat sáḥ | ardha°māsā́nām |
+                                    pā́śāt || 23 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_21" n="16.8.21" type="stanza">
+                        <head>(16.8.24) • h = P 18.52.22h ~ Ś 16.8.3h = P 18.52.3h ~ Ś 16.8.9h = P
+                            18.52.7h ~ Ś 16.8.10h = P 18.52.8h ~ Ś 16.8.11h = P 18.52.9h ~ Ś
+                            16.8.12h = P 18.52.10h ~ Ś 16.8.13h =18.52.11h ~ Ś 16.8.14h = P
+                            18.52.12h ~ Ś 16.8.17h = P 18.52.13h ~ Ś 16.8.18h = P 18.52.14h ~ Ś
+                            16.8.20h ~ Ś 16.8.24h = P 18.52.24h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_21_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_21_b">°°° |</l>
+                            <l xml:id="b16_h008_21_c">sò ’horātráyoḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_21_d">°°° ||<note xml:id="anm3215" n="3215"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 24 ||). <ref target="#N">N.</ref>
+                                    hat sòhorātráyoḥ pā́śāt || 21 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    ahorātráyoḥ | pā́śāt || 24 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_22" n="16.8.22" type="stanza">
+                        <head>(16.8.25) • h = P 18.52.23h</head>
+                        <lg>
+                            <l xml:id="b16_h008_22_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_22_b">°°° |</l>
+                            <l xml:id="b16_h008_22_c">só ’hnoḥ saṃyatóḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_22_d">°°° ||<note xml:id="anm3216" n="3216"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 25 ||). <ref target="#N">N.</ref>
+                                    hat sóhnoḥ saṃyatóḥ pā́śāt || 22 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ | áhnoḥ
+                                    | sam°yatóḥ | pā́śāt || 25 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_23" n="16.8.23" type="stanza">
+                        <head>(16.8.26) • h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P 18.52.2h ~ Ś
+                            16.8.4h = P 18.52.4h ~ Ś 16.8.5h = P 18.52.5h ~ Ś 16.8.6h = P 18.52.6h ~
+                            Ś 16.8.7h = P 18.52.25h ~ Ś 16.8.8h = P 18.52.26h ~ Ś 16.8.15h = P
+                            18.52.17h ~ Ś 16.8.16h = P 18.52.18h ~ Ś 16.8.19h ~ Ś 16.8.25h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_23_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_23_b">°°° |</l>
+                            <l xml:id="b16_h008_23_c">sá dyā́vāpr̥thivyóḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_23_d">°°° ||<note xml:id="anm3217" n="3217"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 26 ||). <ref target="#N">N.</ref>
+                                    hat sá dyā́vāpr̥thivyóḥ pā́śāt || 23 ||. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    dyā́vāpr̥thivyóḥ | pā́śāt || 26 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_24" n="16.8.24" type="stanza">
+                        <head>(16.8.27) • h = P 18.52.24h ~ Ś 16.8.3h = P 18.52.3h ~ Ś 16.8.9h = P
+                            18.52.7h ~ Ś 16.8.10h = P 18.52.8h ~ Ś 16.8.11h = P 18.52.9h ~ Ś
+                            16.8.12h = P 18.52.10h ~ Ś 16.8.13h =18.52.11h ~ Ś 16.8.14h = P
+                            18.52.12h ~ Ś 16.8.17h = P 18.52.13h ~ Ś 16.8.18h = P 18.52.14h ~ Ś
+                            16.8.20h ~ Ś 16.8.21h = P 18.52.22h ~ P 18.52.15h ~ P 18.52.19h</head>
+                        <lg>
+                            <l xml:id="b16_h008_24_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_24_b">°°° |</l>
+                            <l xml:id="b16_h008_24_c">sá indrāgnyóḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_24_d">°°° ||<note xml:id="anm3218" n="3218"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 27 ||). <ref target="#N">N.</ref>
+                                    hat sá indrāgnyóḥ pā́śāt || 24 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    indrāgnyóḥ | pā́śāt || 27 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_25" n="16.8.25" type="stanza">
+                        <head>(16.8.28) • h ~ Ś 16.8.1h = P 18.52.1h ~ Ś 16.8.2h = P 18.52.2h ~ Ś
+                            16.8.4h = P 18.52.4h ~ Ś 16.8.5h = P 18.52.5h ~ Ś 16.8.6h = P 18.52.6h ~
+                            Ś 16.8.7h = P 18.52.25h ~ Ś 16.8.8h = P 18.52.26h ~ Ś 16.8.15h = P
+                            18.52.17h ~ Ś 16.8.16h = P 18.52.18h ~ Ś 16.8.19h ~ Ś 16.8.23h ~ P
+                            18.52.16h ~ P 18.52.20h ~ P 18.52.21h ~ P 18.52.27h</head>
+                        <lg>
+                            <l xml:id="b16_h008_25_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_25_b">°°° |</l>
+                            <l xml:id="b16_h008_25_c">sá mitrā́váruṇayoḥ pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_25_d">°°° ||<note xml:id="anm3219" n="3219"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 28 ||). <ref target="#N">N.</ref>
+                                    hat sá mitrā́váruṇayoḥ pā́śāt || 25 ||. <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>s Pp.-Text hat sáḥ | mitrā́váruṇayoḥ |
+                                    pā́śāt || 28 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_26" n="16.8.26" type="stanza">
+                        <head>(16.8.29) • h = P 18.52.28h</head>
+                        <lg>
+                            <l xml:id="b16_h008_26_a">jitám °°° |</l>
+                            <l xml:id="b16_h008_26_b">°°° |<note xml:id="anm3220" n="3220"
+                                    anchored="true" place="bottom">In <bibl><ref target="#RWh1"><hi
+                                                rend="sup">1</hi><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> fehlt das Avasāna-Zeichen vor sá
+                                    (Druckfehler), siehe <persName ref="#CRLanman"
+                                    >Lanman</persName>s Kommentar in <bibl><ref target="#WhL"><hi
+                                                rend="smallcaps">Wh/L</hi></ref></bibl> (am Ende von
+                                    16.8), wonach <persName ref="#MLindenau">Lindenau</persName> in
+                                            <bibl><ref target="#RWh2"><hi rend="sup">2</hi><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl> mit der
+                                    Anmerkung „jitáma; in RW<hi rend="sup">1</hi> fehlt der avasāna
+                                    hinter dem zweiten Kreise“ das fehlende Zeichen
+                                ergänzt.</note></l>
+                            <l xml:id="b16_h008_26_c">sá rā́jño váruṇasya pā́śān mā́ moci |</l>
+                            <l xml:id="b16_h008_26_d">°°° ||<note xml:id="anm3221" n="3221"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl> (<bibl><ref
+                                            target="#SPP">SPP</ref></bibl> am Ende: || 29 ||). <ref target="#N">N.</ref>
+                                    hat sá rā́jño váruṇasya pā́śāt || 26 ||. So auch an der <ref
+                                        target="#AVP">AVP</ref>-Parallelstelle. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl>s Pp.-Text hat sáḥ |
+                                    rā́jñaḥ | váruṇasya | pā́śāt || 29 ||.</note></l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h008_27" n="16.8.27" type="stanza">
+                        <head>(16.8.30-33) a = Ś 10.5.36a = Ś 16.8.1a = Ś 16.9.1a = P 18.52.1a = P
+                            18.52.29a = P 18.53.1a • b = Ś 16.8.1b = P 18.52.1b = P 18.52.29b • c =
+                            Ś 16.8.1c = P 18.52.1c = P 18.52.29c • d = Ś 16.8.1d = P 18.52.1d = P
+                            18.52.29d • e = Ś 16.8.1e ~ P 18.52.1e = P 18.52.29e • f = Ś 16.8.1f ~ P
+                            18.52.1f = P 18.52.29f • g = Ś 16.8.1g • h ~ P 18.52.29h • i = Ś 16.8.1i
+                            ~ Ś 10.5.36d ~ P 10.10.4d • j = Ś 10.5.36e = Ś 16.8.1j</head>
+                        <lg>
+                            <l xml:id="b16_h008_27_a"><hi rend="sup">a</hi>jitám asmā́kam údbhinnam
+                                asmā́kam</l>
+                            <l xml:id="b16_h008_27_b"><hi rend="sup">b</hi>r̥tám asmā́kaṃ téjo
+                                ’smā́kaṃ</l>
+                            <l xml:id="b16_h008_27_c"><hi rend="sup">c</hi>bráhmāsmā́kaṃ svàr
+                                asmā́kaṃ</l>
+                            <l xml:id="b16_h008_27_d"><hi rend="sup">d</hi>yajñò3 ’smā́kaṃ paśávo
+                                ’smā́kaṃ</l>
+                            <l xml:id="b16_h008_27_e"><hi rend="sup">e</hi>prajā́ asmā́kaṃ vīrā́
+                                asmā́kam |<note xml:id="anm3222" n="3222" anchored="true"
+                                    place="bottom">In <bibl><ref target="#RWh2"><hi rend="sup"
+                                                >2</hi><hi rend="smallcaps">R/Wh</hi></ref></bibl>
+                                    fehlt das Avasāna-Zeichen (Druckfehler).</note></l>
+                            <l xml:id="b16_h008_27_f"><hi rend="sup">f</hi>tásmād amúṃ nír
+                                bhajāmo</l>
+                            <l xml:id="b16_h008_27_g"><hi rend="sup">g</hi>’múm āmuṣyāyaṇám amúṣyāḥ
+                                putrám asáu yáḥ |</l>
+                            <l xml:id="b16_h008_27_h"><hi rend="sup">h</hi>sá mr̥tyóḥ páḍvīśāt<note
+                                    xml:id="anm3223" n="3223" anchored="true" place="bottom">So mit
+                                            <bibl><ref target="#RWh"><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl>. <persName ref="#WDWhitney"
+                                        >Whitney</persName> kommentiert in <bibl><ref target="#WhL"
+                                                ><hi rend="smallcaps">Wh/L</hi></ref></bibl>: „Some
+                                    of the mss. read páḍviṅçāt or páḍvīṅçāt“. <bibl><ref
+                                            target="#SPP">SPP</ref></bibl> verweist darauf, daß C.
+                                    páḍvīṃ° und V. und Dc. páḍviṃ° lesen. <ref target="#N">N.</ref> liest páḍvīṃśāt. Zur
+                                    Orthographie siehe den Kommentar zu 6.96.2c.</note> pā́śān mā́
+                                moci |</l>
+                            <l xml:id="b16_h008_27_i"><hi rend="sup">i</hi>tásyedáṃ várcas téjaḥ
+                                prāṇám ā́yur ní veṣṭayāmi-</l>
+                            <l xml:id="b16_h008_27_j"><hi rend="sup">j</hi>-idám enam adharā́ñcaṃ
+                                pādayāmi || 8 ||<note xml:id="anm3224" n="3224" anchored="true"
+                                    place="bottom">So mit <bibl><ref target="#RWh"><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. <ref target="#N">N.</ref> beginnt
+                                    mit „asmā́kam r̥tám“ (so auch <bibl><ref target="#SPP"
+                                        >SPP</ref></bibl>s Pp.-Text) und endet mit „pādayāmi || 27
+                                    || paryāya || 1 || avasānar̥cā || 25 || gaṇa || 2 ||
+                                    gaṇāvasānar̥cā || 8 || ubhayam r̥cā || 33 || ekādaśa vai
+                                    triguṇāny aparaḥ || ||“. Laut <bibl><ref target="#RH"
+                                        >RH</ref></bibl> fügt Bo. am Ende von 16.8. hinzu: „p. 1.
+                                    av.ṛ. 25 | gaṇâv.ṛ. 33 | ekādaśa vai triguṇāny aparaḥ |“.
+                                        <persName ref="#CRLanman">Lanman</persName> berichtet in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl> (S. 793), daß „the Old Anukr.“
+                                    beschreibt, daß 16.8 als „ekādaça vāi triguṇāny aparaç“
+                                    bezeichnet wird und aus 2 Gaṇas, 8 Gaṇāvasānas und 25
+                                    Paryāyāvasānarcas besteht.</note></l>
+                        </lg>
+                    </div>
+                </div>
+                <div xml:id="b16_h009" n="16.9" type="hymn">
+                    <div xml:id="b16_h009_01" n="16.9.1" type="stanza">
+                        <head>= P 18.53.1ab • a = Ś 10.5.36a = Ś 16.8.1a = Ś 16.8.27a = P 18.52.1a =
+                            P 18.52.29a • b = Ś 10.5.36b = P 16.132.1b [~ MS 1.5.3: 69.13 etc. ~ <ref target="#TS">TS</ref>
+                            4.2.8.1a etc.]</head>
+                        <lg>
+                            <l xml:id="b16_h009_01_a">jitám asmā́kam údbhinnam asmā́kam</l>
+                            <l xml:id="b16_h009_01_b">abhy àṣṭhāṃ víśvāḥ pŕ̥tanā árātīḥ ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h009_02" n="16.9.2" type="stanza">
+                        <head>= P 18.53.1fg • a = Ś 8.5.5a = Ś 19.24.8c = P 2.24.5c = P 15.6.5c = P
+                            16.27.5a • b [~ <ref target="#TS">TS</ref> 4.2.8.1d etc. ~ MS 1.5.3d: 69.14 etc.]</head>
+                        <lg>
+                            <l xml:id="b16_h009_02_a">tád agnír āha tád u sóma āha</l>
+                            <l xml:id="b16_h009_02_b">pūṣā́ mā dhāt<note xml:id="anm3225" n="3225"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. Alle Mss.
+                                    einschließlich <ref target="#N">N.</ref> lesen mā dhāt. <persName ref="#WDWhitney"
+                                        >Whitney</persName> schlägt in <bibl><ref target="#WhL"><hi
+                                                rend="smallcaps">Wh/L</hi></ref></bibl> jedoch vor,
+                                    gemäß MS 1.5.3 (na ā́ dhāt) und zugunsten des besseren Metrums
+                                    *mā́ (d.h. mā ā́) zu emendieren. Da <ref target="#TS">TS</ref> 4.2.8.1d und <ref target="#KS">KS</ref> 39.1d:
+                                    117.10 jedoch puṣā́ mādhāt sukr̥tásya loké haben, ist <persName
+                                        ref="#WDWhitney">Whitney</persName>s Emendation nicht
+                                    erforderlich. Gemäß <ref target="#TS">TS</ref>- und <ref target="#KS">KS</ref>-Parallelstellen ist an unserer
+                                    Stelle eine Lesung mit dem Indikativ māadhāt (statt des hortativ
+                                    gebrauchten Injunktivs dhāt, Pp.-Text: dhāt |) durchaus
+                                    erwähnenswert, siehe den ähnlichen Fall in 13.1.20a.</note>
+                                sukr̥tásya loké ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h009_03" n="16.9.3" type="stanza">
+                        <head>a [= <ref target="#TS">TS</ref> 1.6.6.1 etc.] ~ P 18.53.1h ~ P 10.10.1a • b = P
+                            18.53.1i</head>
+                        <lg>
+                            <l xml:id="b16_h009_03_a">áganma svà1ḥ<note xml:id="anm3226" n="3226"
+                                    anchored="true" place="bottom">So mit <bibl><ref target="#RWh"
+                                                ><hi rend="smallcaps">R/Wh</hi></ref></bibl> und
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>. <ref target="#N">N.</ref> liest mit
+                                            <bibl><ref target="#SPP">SPP</ref></bibl>s A., B., B<hi
+                                        rend="sup">h</hi>., R., E. und Dc. svà3ḥ.</note> svàr
+                                aganma</l>
+                            <l xml:id="b16_h009_03_b">sáṃ sū́ryasya jyótiṣāganma ||</l>
+                        </lg>
+                    </div>
+                    <div xml:id="b16_h009_04" n="16.9.4" type="stanza">
+                        <head>abd = P 18.53.1jkm • c ~ P 18.53.1l [~ <ref target="#KS">KS</ref> 5.4: 46.13] • e nur
+                            hier</head>
+                        <lg>
+                            <l xml:id="b16_h009_04_a">vasyobhū́yāya</l>
+                            <l xml:id="b16_h009_04_b">vásumān yajñó</l>
+                            <l xml:id="b16_h009_04_c">vásu vaṃsiṣīya⁎<note xml:id="anm3227" n="3227"
+                                    anchored="true" place="bottom">So emendiert nach <bibl><ref
+                                            target="#WhI"><hi rend="smallcaps">WhI</hi></ref></bibl>
+                                    („vaṅsiṣīya ... mss. vaṅśi-“) und <persName ref="#WDWhitney"
+                                        >Whitney</persName>s Kommentar in <bibl><ref target="#WhL"
+                                                ><hi rend="smallcaps">Wh/L</hi></ref></bibl>: „All
+                                    the mss. read vaṅçiṣīya, and the edition follows them; but we
+                                    ought unquestionably to have emended to vaṅsiṣīya. There is even
+                                    probably a play on words intended between vásu and vaṅs-“,
+                                    wonach <persName ref="#MLindenau">Lindenau</persName> in
+                                            <bibl><ref target="#RWh2"><hi rend="sup">2</hi><hi
+                                                rend="smallcaps">R/Wh</hi></ref></bibl> mit der
+                                    Anmerkung „vaṃsiṣīya; RW<hi rend="sup">1</hi>: vaṃśiṣīya“
+                                    vaṃśiṣīya zu vaṃsiṣīya ändert. <bibl><ref target="#RWh1"><hi
+                                                rend="sup">1</hi><hi rend="smallcaps"
+                                            >R/Wh</hi></ref></bibl> und <bibl><ref target="#SPP"
+                                            >SPP</ref></bibl> (ohne Mss.-Variante) haben vaṃśiṣīya,
+                                    das in allen Mss. einschließlich <ref target="#N">N.</ref> belegt sind. <bibl><ref
+                                            target="#narten_1964">Narten 1964</ref>, <biblScope
+                                            unit="page" n="211/236">211 und 236</biblScope></bibl>
+                                    hält vaṃśiṣīya für die reguläre Form, siehe jedoch die
+                                    Kommentare zu 7.81.5c und 9.1.14b (dessen <ref target="#AVP"
+                                        >AVP</ref>-Parallelstelle: maṃsiṣīya so <bibl><ref
+                                            target="#Bhatt2008"><hi rend="smallcaps">Bhatt</hi>
+                                            2008</ref></bibl>, das jedoch zu vaṃsiṣīya zu
+                                    korrigieren ist). Die <ref target="#AVP"
+                                    >AVP</ref>-Parallelstelle zu 16.9.4c hat vaṃsīya.</note></l>
+                            <l xml:id="b16_h009_04_d">vásumān bhūyāsaṃ</l>
+                            <l xml:id="b16_h009_04_e">vásu máyi dhehi || 9 || a 2 ||<note
+                                    xml:id="anm3228" n="3228" anchored="true" place="bottom"
+                                        ><persName ref="#CRLanman">Lanman</persName> schreibt in
+                                            <bibl><ref target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref></bibl>: „Here ends the second anuvāka,
+                                    with 5 paryāyas and 71 avasānarcas ... The piece here quoted
+                                    from the Old Anukr. is pañcaparyāya uttaraḥ ... Here ends the
+                                    thirty-first prapāṭhaka“. <persName ref="#CRLanman"
+                                        >Lanman</persName> berichtet ferner in <bibl><ref
+                                            target="#WhL"><hi rend="smallcaps"
+                                            >Wh/L</hi></ref><biblScope unit="page" n="793">(S.
+                                            793)</biblScope></bibl>, daß „the Old Anukr.“
+                                    beschreibt, daß 16.9 als „catvāri vāi vacanāni paraḥ“ bezeichnet
+                                    wird und aus 4 Vacanāni besteht. Laut „The Old Anukr.“
+                                        (<persName ref="#CRLanman">Lanman</persName> ebd.) soll der
+                                    16. Kāṇḍa insgesamt aus 14 Gaṇāvasānarcas, 4 Vacanāni und 53
+                                    Paryāyāvasānarcas bestehen. <bibl><ref target="#RH"
+                                        >RH</ref></bibl> gibt an: „[Bo.] p. 1. vacanâvasânaṛcâ | 4 |
+                                    catvāri vai vacanāni paraś catvāri vacanāni paraḥ | av.p. 5 |
+                                    pary.av.ṛ. 53 | gaṇadhā gaṇāvasānar̥cā | 14 | ubhayam r̥cā | 67
+                                    | paṃcaparyāya uttaraḥ |“. <bibl><ref target="#WhK"><hi
+                                                rend="smallcaps">WhK</hi></ref></bibl> ist zu
+                                    entnehmen, daß Bp. mit „dhehi || paryāya || 1 || vacanāvasāna
+                                    r̥cā || 5 || catvāri vai vacanāni paraḥ || anuvāke paryāya || 5
+                                    || paryāvasāna r̥cā || 53 || gaṇa || 4 || gaṇāvasānar̥cā || 14
+                                    || ubhayam r̥cā || 68 || paṃcaparyāya uttaraḥ ||
+                                    ekatriṃśaprapāṭhakaḥ || ṣoḍaśamaṃ kāṃḍaṃ samāptam || cha ||“
+                                    endet. <persName ref="#WDWhitney">Whitney</persName> faßt den
+                                    Kolophon von P. folgenderweise zusammen: anuv. pary. 5 pary.
+                                    av.r̥. 53, g. 4. g.r̥. 4 und er zitiert: ... uttaraḥ ||
+                                    ekatriṃśatimaḥ prapāṭhakaḥ || evaṃ kāṃḍe anuvāka || 2 || paryāya
+                                    sūkta || 9 || avasāna r̥cā || 103 || cha || 1 || (so auch M.;
+                                    I.: ... prapāṭhakaḥ || asya kāṃḍe anuvāka sūkta 9 || r̥cā 93 ||
+                                    iti ṣ° k° samāptaḥ ||). <persName ref="#WDWhitney"
+                                        >Whitney</persName> fügt am Ende „saḥ 1813 P.“ hinzu. B.,
+                                    M., E. und D. haben ... avas.°-°ra || dvitīyo nuvākaḥ || anu°
+                                    ... paryāyāvasāna r̥cā ||. W. liest dvitīyo nuvākaḥ sūkta 7 r̥cā
+                                    ṣoḍaśamaṃ kāṃḍaṃ samāptam || 16 || und O. dhehi || 4 || 9 ||
+                                    dvitīyo nuvākaḥ || ṣoḍaśamaṃ kāṃḍaṃ samāptaṃ ||. <ref target="#N">N.</ref> endet mit
+                                    „... dhehi || 4 || paryāya || 1 || avasānar̥cā || 4 || catvāri
+                                    vai vacanāni paraś catvāri vacanāni paraḥ || anuvāke paryāya ||
+                                    5 || paryāyāvasānar̥cā || 53 || gaṇa || gaṇāvasānar̥cā || 14 ||
+                                    ubhayam r̥cā || 67 || paṃcaparyāya uttara || 9 || ṣoḍaśamaṃ
+                                    kāṇḍaṃ samāptam || ||“.</note></l>
+                        </lg>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
