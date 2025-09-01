@@ -3,6 +3,17 @@ layout: home
 ---
 
 
+# News: VedaWeb 2.0 Platform Preview
+
+In recent years, the project team has been working intensively on the new VedaWeb platform: Existing resources on the Rigveda have been revised and supplemented, and resources on additional texts have been curated and processed. In addition, a new platform software ([**Tekst**](https://github.com/VedaWebProject/Tekst)) has been developed that enables and promotes collaboration and community-driven quality assurance, as well as supporting new resource types such as audio, graphics, and integrations of external APIs.
+
+The full release of the new platform is imminent. However, we would like to share with the research community and all interested parties a demo (alpha) of the new VedaWeb platform, which is limited in scope and functionality, but offers a preview of the upcoming release of VedaWeb 2.0. The demo is limited to a selection of resources on the Rigveda. Data on other texts will be published upon the official release. In addition, the audio resource featuring recitations of the Rigveda in the demo only covers locations `1.1.1` to `1.19.9`. Full coverage is planned for the release of the platform.
+
+Disclaimer: As the underlying software is currently under development, it is possible that you'll encounter errors and irregularities, mistakes in descriptions or missing pieces of documentation.
+
+[**To the VedaWeb 2.0 Alpha Demo ↗**](https://vedaweb.uni-koeln.de/zwo)
+
+
 # The VedaWeb Project
 
 This DFG-funded project provides a web-based, open-access platform in order to facilitate linguistic research on Old Indic texts. The text corpus is made available in a digitally accessible as well as morphologically and metrically annotated form, searchable for lexicographic and corpus-linguistic criteria. VedaWeb is part of the *Cologne South Asian Languages and Texts* ([C-SALT](http://c-salt.uni-koeln.de/)).
